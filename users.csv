@@ -1,0 +1,101 @@
+user_id;name;persona;interests;age_group;budget
+1000;Michael Martin;Shopaholic;shopping;25-34;Luxury
+1001;John Doğan;Nature Lover;parks;55;Standard
+1002;Can Bernard;Night Owl;bars, nightlife;25-34;Standard
+1003;Mehmet Williams;Culture & Arts Lover;museums, arts, landmarks;25-34;Luxury
+1004;John Williams;Shopaholic;shopping;45-54;Luxury
+1005;Pierre Arslan;Gastronome;restaurants, cafes;18-24;Economy
+1006;Elif Garcia;Tourist;landmarks, museums, hotels, restaurants;35-44;Standard
+1007;Sarah Yılmaz;Culture & Arts Lover;museums, arts, landmarks;55;Economy
+1008;Zeynep Davis;Night Owl;bars, nightlife;18-24;Standard
+1009;Emre Şahin;Nature Lover;parks;45-54;Luxury
+1010;Ayşe Kaya;Gastronome;restaurants, cafes;25-34;Standard
+1011;David Jones;Tourist;landmarks, museums, hotels, restaurants;18-24;Standard
+1012;Lucas Öztürk;Night Owl;bars, nightlife;35-44;Economy
+1013;Selin Demir;Shopaholic;shopping;55;Luxury
+1014;Lea Çelik;Culture & Arts Lover;museums, arts, landmarks;45-54;Standard
+1015;Jane Aydın;Nature Lover;parks;18-24;Economy
+1016;Ali Özdemir;Gastronome;restaurants, cafes;55;Standard
+1017;Marie Smith;Tourist;landmarks, museums, hotels, restaurants;25-34;Luxury
+1018;Burak Johnson;Night Owl;bars, nightlife;45-54;Standard
+1019;Emma Brown;Shopaholic;shopping;18-24;Economy
+1020;Michael Miller;Nature Lover;parks;35-44;Luxury
+1021;Fatma Doğan;Culture & Arts Lover;museums, arts, landmarks;25-34;Standard
+1022;John Bernard;Gastronome;restaurants, cafes;18-24;Luxury
+1023;Pierre Martin;Tourist;landmarks, museums, hotels, restaurants;55;Standard
+1024;Mehmet Garcia;Night Owl;bars, nightlife;25-34;Economy
+1025;Can Davis;Shopaholic;shopping;35-44;Standard
+1026;Elif Yılmaz;Nature Lover;parks;45-54;Economy
+1027;Ayşe Williams;Culture & Arts Lover;museums, arts, landmarks;18-24;Luxury
+1028;David Arslan;Gastronome;restaurants, cafes;55;Standard
+1029;Selin Şahin;Tourist;landmarks, museums, hotels, restaurants;25-34;Luxury
+1030;Lucas Jones;Night Owl;bars, nightlife;35-44;Standard
+1031;Lea Kaya;Shopaholic;shopping;45-54;Economy
+1032;Jane Demir;Nature Lover;parks;18-24;Standard
+1033;Ali Çelik;Culture & Arts Lover;museums, arts, landmarks;55;Luxury
+1034;Marie Öztürk;Gastronome;restaurants, cafes;25-34;Economy
+1035;Burak Aydın;Tourist;landmarks, museums, hotels, restaurants;35-44;Standard
+1036;Emma Özdemir;Night Owl;bars, nightlife;45-54;Luxury
+1037;Michael Doğan;Shopaholic;shopping;18-24;Standard
+1038;Fatma Smith;Nature Lover;parks;55;Economy
+1039;John Johnson;Culture & Arts Lover;museums, arts, landmarks;25-34;Standard
+1040;Pierre Brown;Gastronome;restaurants, cafes;35-44;Luxury
+1041;Mehmet Miller;Tourist;landmarks, museums, hotels, restaurants;45-54;Economy
+1042;Can Martin;Night Owl;bars, nightlife;18-24;Standard
+1043;Elif Bernard;Shopaholic;shopping;55;Luxury
+1044;Ayşe Davis;Nature Lover;parks;25-34;Standard
+1045;David Garcia;Culture & Arts Lover;museums, arts, landmarks;35-44;Economy
+1046;Selin Yılmaz;Gastronome;restaurants, cafes;45-54;Standard
+1047;Lucas Williams;Tourist;landmarks, museums, hotels, restaurants;18-24;Luxury
+1048;Lea Arslan;Night Owl;bars, nightlife;55;Standard
+1049;Jane Şahin;Shopaholic;shopping;25-34;Economy
+1050;Ali Jones;Nature Lover;parks;35-44;Luxury
+1051;Marie Kaya;Culture & Arts Lover;museums, arts, landmarks;45-54;Standard
+1052;Burak Demir;Gastronome;restaurants, cafes;18-24;Standard
+1053;Emma Çelik;Tourist;landmarks, museums, hotels, restaurants;55;Luxury
+1054;Michael Öztürk;Night Owl;bars, nightlife;25-34;Economy
+1055;Fatma Aydın;Shopaholic;shopping;35-44;Standard
+1056;John Özdemir;Nature Lover;parks;45-54;Luxury
+1057;Pierre Doğan;Culture & Arts Lover;museums, arts, landmarks;18-24;Standard
+1058;Mehmet Smith;Gastronome;restaurants, cafes;55;Economy
+1059;Can Johnson;Tourist;landmarks, museums, hotels, restaurants;25-34;Standard
+1060;Elif Brown;Night Owl;bars, nightlife;35-44;Luxury
+1061;Ayşe Miller;Shopaholic;shopping;45-54;Standard
+1062;David Martin;Nature Lover;parks;18-24;Economy
+1063;Selin Bernard;Culture & Arts Lover;museums, arts, landmarks;55;Luxury
+1064;Lucas Davis;Gastronome;restaurants, cafes;25-34;Standard
+1065;Lea Garcia;Tourist;landmarks, museums, hotels, restaurants;35-44;Economy
+1066;Jane Yılmaz;Night Owl;bars, nightlife;45-54;Standard
+1067;Ali Williams;Shopaholic;shopping;18-24;Luxury
+1068;Marie Arslan;Nature Lover;parks;55;Standard
+1069;Burak Şahin;Culture & Arts Lover;museums, arts, landmarks;25-34;Economy
+1070;Emma Jones;Gastronome;restaurants, cafes;35-44;Standard
+1071;Michael Kaya;Tourist;landmarks, museums, hotels, restaurants;45-54;Luxury
+1072;Fatma Demir;Night Owl;bars, nightlife;18-24;Standard
+1073;John Çelik;Shopaholic;shopping;55;Economy
+1074;Pierre Öztürk;Nature Lover;parks;25-34;Luxury
+1075;Mehmet Aydın;Culture & Arts Lover;museums, arts, landmarks;35-44;Standard
+1076;Can Özdemir;Gastronome;restaurants, cafes;45-54;Standard
+1077;Elif Doğan;Tourist;landmarks, museums, hotels, restaurants;18-24;Luxury
+1078;Ayşe Smith;Night Owl;bars, nightlife;55;Economy
+1079;David Johnson;Shopaholic;shopping;25-34;Standard
+1080;Selin Brown;Nature Lover;parks;35-44;Luxury
+1081;Lucas Miller;Culture & Arts Lover;museums, arts, landmarks;45-54;Standard
+1082;Lea Martin;Gastronome;restaurants, cafes;18-24;Economy
+1083;Jane Bernard;Tourist;landmarks, museums, hotels, restaurants;55;Standard
+1084;Ali Davis;Night Owl;bars, nightlife;25-34;Luxury
+1085;Marie Garcia;Shopaholic;shopping;35-44;Standard
+1086;Burak Yılmaz;Nature Lover;parks;45-54;Economy
+1087;Emma Williams;Culture & Arts Lover;museums, arts, landmarks;18-24;Standard
+1088;Michael Arslan;Gastronome;restaurants, cafes;55;Luxury
+1089;Fatma Şahin;Tourist;landmarks, museums, hotels, restaurants;25-34;Standard
+1090;John Jones;Night Owl;bars, nightlife;35-44;Economy
+1091;Pierre Kaya;Shopaholic;shopping;45-54;Standard
+1092;Mehmet Demir;Nature Lover;parks;18-24;Luxury
+1093;Can Çelik;Culture & Arts Lover;museums, arts, landmarks;55;Standard
+1094;Elif Öztürk;Gastronome;restaurants, cafes;25-34;Economy
+1095;Ayşe Aydın;Tourist;landmarks, museums, hotels, restaurants;35-44;Standard
+1096;David Özdemir;Night Owl;bars, nightlife;45-54;Luxury
+1097;Selin Doğan;Shopaholic;shopping;18-24;Standard
+1098;Lucas Smith;Nature Lover;parks;55;Economy
+1099;Lea Johnson;Culture & Arts Lover;museums, arts, landmarks;25-34;Standard

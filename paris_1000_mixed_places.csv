@@ -1,0 +1,1001 @@
+name;rating;review_count;category;lat;lon;address;phone;category_source
+Ô'Cocher;50;6;Burgers, French, Wine Bars;4,88516E+14;2,31855E+14;45 rue de Babylone 75007 Paris France;+33 1 47 05 85 00;restaurants
+NENI;50;6;French;488795065;23547303;12 boulevard de Denain 75010 Paris France;+33 1 42 80 82 34;restaurants
+Miznon;50;6;Mediterranean, Fast Food, Middle Eastern;48872894;23425698;3 rue de la Grange Batelière 75009 Paris France;+33 1 42 74 83 58;restaurants
+Il Quadrifoglio;50;7;Italian;488492012;23663001;19 bd Bourdon 75004 Paris France;+33 1 40 09 91 05;restaurants
+Resto Today;50;6;Cafes, Breakfast & Brunch;48890948;2278801;55 rue de Villiers 92200 Neuilly-sur-Seine France;+33 1 47 57 30 82;restaurants
+Louis;50;6;Bistros, French;48875061;23387899;23 rue de la Victoire 75009 Paris France;+33 1 55 07 86 52;restaurants
+Le Café de la Mairie;50;7;Bistros;4886353;236097;96 rue des Archives 75003 Paris France;;restaurants
+Chez Delphine;50;11;French;4,88772E+14;2,33733E+14;48 rue Saint-Georges 75009 Paris France;+33 1 42 81 35 94;restaurants
+Coupi Bar;50;7;Bubble Tea, Cafes, Sandwiches;4,8821E+14;2,37004E+14;48 avenue de la Porte d'Ivry 75013 Paris France;+33 1 47 07 65 15;restaurants
+La Haute Cloche;50;7;Bistros;4886941;230008;13 rue Quentin-Bauchart 75008 Paris France;+33 1 81 29 89 72;restaurants
+Mr. T;50;6;Seafood, Burgers, Cocktail Bars;4886269;23636499;38 rue de Saintonge 75003 Paris France;+33 1 42 71 15 34;restaurants
+Le Minos;50;6;Creperies;48853128;234532;22 rue de la Huchette 75005 Paris France;+33 1 42 39 95 67;restaurants
+Florina;50;8;French;488375436;23452592;47 boulevard de Port Royal 75013 Paris France;+33 9 84 30 74 72;restaurants
+Léandrés;50;5;Colombian, Cafes, Breakfast & Brunch;4887914;234801;78 rue de Maubeuge 75009 Paris France;+33 9 86 79 57 29;restaurants
+Pâtisserie Emma Duvéré;50;5;Patisserie/Cake Shop, Breakfast & Brunch, Tea Rooms;488570112;23746172;41 rue Sedaine 75011 Paris France;+33 9 83 20 99 55;restaurants
+Chez Meunier;50;5;Bakeries, Breakfast & Brunch;488830875;22741793;85 avenue du Roule 92200 Neuilly-sur-Seine France;;restaurants
+Fricotin;50;6;Creperies;48880744;2299896;85bis avenue de Wagram 75017 Paris France;+33 9 73 58 55 24;restaurants
+Grounded;50;6;Cafes, Breakfast & Brunch;488545089;2384102;101 rue de Charonne 75011 Paris France;+33 6 84 44 63 53;restaurants
+Les Trublions;50;5;French, Modern European;488480186;234846;34 rue de la Montagne Sainte Geneviève 75005 Paris France;+33 1 42 02 87 83;restaurants
+Méli Mel'Anges;50;5;French;48890543;228629;46 Rue Louis Rouquier 92300 Levallois-Perret France;+33 1 47 57 80 87;restaurants
+Ricette Ristorante;50;9;Italian, Gluten-Free;48849105;2354031;10 rue du Cardinal Lemoine 75005 Paris France;+33 1 43 26 52 12;restaurants
+Merci Jérôme;50;7;Bakeries, Breakfast & Brunch, Tea Rooms;488777597;2298876;270 rue du Faubourg Saint-Honoré 75008 Paris France;+33 7 81 86 16 01;restaurants
+Ken Kawasaki;50;6;Japanese;4888722;233298;15 rue Caulaincourt 75018 Paris France;+33 9 70 95 98 32;restaurants
+Le Coin d'Alexandre;50;8;French;48832253;2293413;86 rue Olivier de Serres 75015 Paris France;+33 1 42 50 21 07;restaurants
+Abuela;50;9;Tapas Bars;4,88795E+14;2,33598E+14;43 rue Notre Dame de Lorette 75009 Paris France;+33 6 59 12 20 40;restaurants
+Pasta Luna;50;6;Delicatessen, Sandwiches;488501731;23301594;15 rue de Mézières 75006 Paris 06 France;+33 1 45 44 32 02;restaurants
+Sourire Le Restaurant;50;8;French;4883716;234203;15 rue de la Santé 75013 Paris France;+33 1 47 07 07 45;restaurants
+India StreEAT;50;10;Indian;4884039;235183;105 rue Monge 75005 Paris France;+33 9 86 07 06 91;restaurants
+Sorella;50;11;Italian;4887009;228307;13 avenue Bugeaud 75116 Paris France;+33 1 42 56 49 37;restaurants
+Le Bonne Nouvelle;50;7;Bistros;4887053;2350453;24 boulevard de Bonne Nouvelle 75010 Paris France;+33 1 53 34 85 89;restaurants
+Le Cosmos;50;5;Brasseries;488471;229361;10 rue Henri Duchêne 75015 Paris France;+33 9 65 10 52 98;restaurants
+Roca;50;10;French;488848837;22950957;31 rue Guillaume Tell 75017 Paris France;+33 1 47 64 86 04;restaurants
+Jium;50;7;Korean;4884869;229668;26 rue Tiphaine 75015 Paris France;+33 1 45 75 20 00;restaurants
+DICE Caffè;50;7;Italian;4,88559E+13;2,36711E+14;11 rue du Pas de la Mule 75004 Paris France;+33 1 42 71 59 73;restaurants
+Le Chanard;50;8;Wine Bars, Bistros, Cocktail Bars;488530299;236129;8 rue Saint-Paul 75004 Paris France;+33 1 48 04 75 89;restaurants
+Teppanyaki Ginza Onodera;50;8;Japanese;4,8853E+14;2,33399E+14;6 rue des Ciseaux 75006 Paris France;+33 1 42 02 72 12;restaurants
+La Bécane à Gaston;50;10;French;4887251;236112;24 rue Lucien Sampaix 75010 Paris France;+33 9 80 73 22 98;restaurants
+Le Colisée;50;6;French, Dance Clubs;4887079;2308084;17 rue du Colisée 75008 Paris France;+33 6 09 78 53 34;restaurants
+Lyoom Cantine;50;6;Mediterranean, Middle Eastern;4886645;23726666;48 rue Jean-Pierre Timbaud 75011 Paris France;+33 1 43 38 66 79;restaurants
+Les Enfants du Marché;50;11;Seafood;4886296;236215;39 rue de Bretagne 75003 Paris France;+33 6 69 99 21 21;restaurants
+Meating Corner;50;5;Burgers;48859229;2349769;8 rue des Lombards 75004 Paris France;+33 1 40 24 67 28;restaurants
+Mokko;50;5;French;4889005;234228;3 rue Francoeur 75018 Paris France;+33 9 80 96 93 60;restaurants
+Sequana;50;8;French;4885675;234154;72 quai des Orfèvres 75001 Paris France;+33 1 43 29 78 81;restaurants
+Rarita;50;5;Italian;4,88616E+14;2,3423E+16;98-100 rue saint-honoré 75001 Paris France;+33 1 45 08 44 69;restaurants
+Via Emilia;50;6;Pizza, Italian;4887929;233512;22 rue la Bruyère 75009 Paris France;+33 1 42 82 18 33;restaurants
+La Cour Jardin;50;5;French;4,88665E+13;2,3042E+14;25 avenue Montaigne 75008 Paris France;+33 1 53 67 66 02;restaurants
+Pizza e Mozza;50;6;Pizza, Salad;48860309;2348149;1 rue des Innocents 75001 Paris France;+33 1 47 03 90 14;restaurants
+Le Cadoret;50;5;Bistros;4,88747E+14;2,38108E+14;1 rue Pradier 75019 Paris France;+33 1 53 21 92 13;restaurants
+Tradi;50;15;Bistros;4886635;234158;4 rue du Mail 75002 Paris France;+33 1 44 82 07 83;restaurants
+La Lingerie;50;5;Cafes, Bars;4883681;233454;82 avenue Denfert Rochereau 75014 Paris France;;restaurants
+Superbières;50;7;Beer, Wine & Spirits, Sandwiches;488800507;23636501;203 rue du Faubourg Saint-Martin 75010 Paris France;+33 9 82 52 98 88;restaurants
+Bulgogi;50;6;Korean;48870907;2376759;12 rue Louis Bonnet 75011 Paris France;;restaurants
+Banoi;50;5;Vietnamese;4886416;236674;129 rue Amelot 75011 Paris France;+33 1 71 93 48 75;restaurants
+Maison;50;10;French;4886374;237922;3 rue Saint-Hubert 75011 Paris France;+33 1 43 38 61 95;restaurants
+Les Vendanges;50;5;French, Gastropubs;4,89011E+14;2,30526E+14;65 bd Jean Jaures 92110 Clichy France;;restaurants
+Hakka Home;50;6;Chinese, Pan Asian;488522797;23900001;3 rue Voltaire 75011 Paris France;+33 9 84 01 51 44;restaurants
+Le Stand;50;5;Vegan, Gluten-Free, Vegetarian;4,88628E+14;2,36222E+14;39 rue de Bretagne 75003 Paris France;+33 6 21 87 08 88;restaurants
+L'Ours Blanc;50;7;French, Coffee & Tea;4886065;235434;8 rue Geoffroy l'Angevin 75004 Paris France;+33 1 40 27 93 67;restaurants
+Karma;50;6;Himalayan/Nepalese;4,8847E+14;2,37246E+14;24 rue Traversière 75012 Paris France;+33 1 43 14 60 21;restaurants
+L'Archeste;50;6;French;4886179;227811;79 rue de la Tour 75116 Paris France;+33 1 40 71 69 68;restaurants
+Tamara;50;5;French;4886429;233605;15 rue de Richelieu 75001 Paris France;+33 1 71 60 91 30;restaurants
+La Scarpetta;50;6;Italian;48880897;2323073;17 rue Berne 75008 Paris France;+33 1 45 22 09 50;restaurants
+Le Four du Marais;50;7;Pizza;4,88576E+14;2,36434E+14;45 rue de Turenne 75003 Paris France;+33 9 87 71 03 06;restaurants
+Fong Lai;50;6;Chinese;48865415;2369119;24 rue Jean Pierre Timbaud 75011 Paris France;+33 1 73 75 88 19;restaurants
+C.Comme Chez Vous;50;7;Fast Food;488575299;230059;49 avenue la Bourdonnais 75007 Paris France;+33 1 45 56 96 50;restaurants
+Flirt'The;50;5;Coffee & Tea, Cafes;488537336;23073545;3 avenue Duquesne 75007 Paris France;+33 1 47 05 51 05;restaurants
+Yummy Noodles;50;7;Chinese;4883982;23327;17bis rue Campagne Première 75014 Paris France;+33 1 43 22 88 18;restaurants
+Arzeh;50;6;Lebanese;488413506;230373;111 rue Cambronne 75015 Paris France;+33 9 84 05 08 20;restaurants
+Caracole;50;5;French;4,89223E+14;2,25265E+14;2 rue des Anciens Combattants 92700 Colombes France;+33 1 47 84 25 80;restaurants
+Jackpot;50;9;French, Beer Bar, Cocktail Bars;4886179;23573;10 rue des Haudriettes 75003 Paris France;+33 1 42 71 61 46;restaurants
+Jeongané;50;9;Korean;4883189;230421;60 rue des Morillons 75015 Paris France;+33 9 73 56 35 88;restaurants
+Chef Jean Yves;50;9;Restaurants;488676699;235526;74 rue du Vertbois 75011 Paris France;+33 6 80 64 18 84;restaurants
+Kanna Tanna;50;7;Sri Lankan;488800049;23345288;40 rue Jean Baptiste Pigalle 75009 Paris France;+33 6 50 29 19 95;restaurants
+Restaurant Montée;50;8;French;4884077;233068;9 rue Léopold Robert 75014 Paris France;+33 1 43 25 57 63;restaurants
+Tu Fais ta Crêpe;50;6;Creperies;4885002;228913;33 rue Viala 75015 Paris France;;restaurants
+Haha;50;5;Pan Asian;4888529;233525;6 rue Aristide Bruant 75018 Paris France;+33 1 42 23 70 83;restaurants
+Pinzuti;50;5;Pizza, Corsican;4889187;233379;212 rue Marcadet 75018 Paris France;+33 1 42 51 70 55;restaurants
+Makham Thai;50;7;Thai;4887304;2343904;11 rue de Montyon 75009 Paris France;+33 1 47 70 40 95;restaurants
+ASPIC;50;34;French;4887918;234367;24 rue de la Tour d'Auvergne 75009 Paris France;+33 9 82 49 30 98;restaurants
+Le Bistro V;50;29;Bistros, French;4883768;234622;56 bd de Port-Royal 75005 Paris France;+33 1 45 35 35 31;restaurants
+Pontochoux;49;19;Japanese;48861319;2365104;18 rue du Pont aux Choux 75003 Paris France;+33 9 86 70 77 00;restaurants
+Alliance;49;17;French;4884993;235329;5 rue de Poissy 75005 Paris France;+33 1 75 51 57 54;restaurants
+Le Bizetro;49;16;French;4886676;229858;6 rue Georges Bizet 75116 Paris France;+33 1 47 23 85 41;restaurants
+Mokonuts;49;43;Cafes, Bakeries;4,88508E+14;2,38147E+14;5 rue Saint-Bernard 75011 Paris France;+33 9 80 81 82 85;restaurants
+Marche ou Crêpe;49;14;Creperies, Bars;4885262;240042;18 rue des Haies 75020 Paris France;+33 9 54 89 17 72;restaurants
+Vietnam Food;49;14;Vietnamese;4,88571E+14;2,30119E+14;63 avenue de la Bourdonnais 75007 Paris France;+33 6 18 47 02 75;restaurants
+Cook'n Saj;49;26;Lebanese;4885314;233197;5 rue Bernard Palissy 75006 Paris France;+33 1 45 49 01 56;restaurants
+Eels;49;26;French;48873248;23499957;27 rue d'Hauteville 75010 Paris France;+33 1 42 28 80 20;restaurants
+Vivre Opéra Garnier;49;13;French;4886922;233446;3 rue de la Michodière 75002 Paris France;+33 1 58 22 89 90;restaurants
+Les Nouilles Fraiches;49;12;Chinese, Ramen;488475092;229966;32 rue Frémicourt 75015 Paris France;+33 9 83 05 27 89;restaurants
+Jixiao's Buns;49;11;Pan Asian;4,88645E+14;2,35501E+14;91 rue Beaubourg 75003 Paris France;+33 1 56 06 90 18;restaurants
+The Publisher;49;22;Gastropubs, Pubs, Burgers;4,88806E+14;2,31821E+14;33 rue de Constantinople 75008 Paris France;+33 9 84 01 74 47;restaurants
+L'Initial;49;11;French;4,88507E+14;2,3504E+14;9 rue de Bievre 75005 Paris France;+33 1 42 01 84 22;restaurants
+Nadia;49;11;Creperies, French, Wine Bars;488512795;23440643;94 bd Saint Germain 75005 Paris France;+33 1 46 33 22 90;restaurants
+Signature Montmartre;49;21;Asian Fusion;4888443;234129;12 rue des Trois Frères 75018 Paris France;+33 1 84 25 30 00;restaurants
+La Brick;49;20;Middle Eastern;4887559;238188;13 Rue Pradier buttes Chaumont 75019 Paris France;+33 1 75 50 95 32;restaurants
+La Piazzetta;49;10;Italian, Breakfast & Brunch;48843792;23305;1 rue Bréa 75004 Paris France;+33 9 73 22 07 68;restaurants
+B&M;49;10;Burgers;48884396;2339872;98 rue des Martyrs 75018 Paris France;+33 1 42 58 39 20;restaurants
+Fuji Yaki;49;10;Japanese, Sushi Bars;4885431;237125;15 rue de la Roquette 75011 Paris France;+33 1 43 38 45 57;restaurants
+Sapori di Parma;49;19;Italian;48856232;23021;56 avenue de la Bourdonnais 75007 Paris France;+33 1 45 56 19 38;restaurants
+Mokonuts;49;43;Cafes, Bakeries;4,88508E+14;2,38147E+14;5 rue Saint-Bernard 75011 Paris France;+33 9 80 81 82 85;cafes
+JOZI Brunch Panthéon;48;49;Coffee & Tea, Breakfast & Brunch;4884787;234706;3 rue Valette 75005 Paris France;+33 6 06 06 06 06;cafes
+Fringe;48;12;Coffee & Tea;4886272;236476;106 rue de Turenne 75003 Paris France;;cafes
+ALMA;48;12;Chimney Cakes, Cafes, Coffee & Tea;4,88577E+14;2,36777E+14;59 boulevard Beaumarchais 75003 Paris France;+33 9 66 84 57 34;cafes
+Motors Coffee;48;21;Coffee & Tea, Coffee Roasteries;4885929;234696;7 rue des Halles 75001 Paris France;;cafes
+A. Lacroix;48;122;Coffee & Tea, Patisserie/Cake Shop, Ice Cream & Frozen Yogurt;48851727;2349427;11 quai de Montebello 75005 Paris France;+33 1 74 64 14 86;cafes
+Zia Paris;47;100;Cafes, Breakfast & Brunch;48854286;23071856;22 avenue de Tourville 75007 Paris France;+33 1 44 18 90 71;cafes
+Matamata Coffee Bar;47;97;Coffee & Tea, Breakfast & Brunch, Sandwiches;4886611;234411;58 rue d'Argout 75002 Paris France;+33 1 71 39 44 58;cafes
+Holybelly;47;321;Breakfast & Brunch, Coffee & Tea;48871022;2359819;5 rue Lucien Sampaix 75010 Paris France;+33 1 82 28 00 80;cafes
+O Coffeeshop;47;88;Cafes, Breakfast & Brunch;4884911;2291145;23 rue de Lourmel 75015 Paris France;+33 1 45 79 69 89;cafes
+Le Barbouquin;46;16;Bookstores, Cafes;48871052;23787811;1 rue Dénoyez 75020 Paris France;+33 9 84 32 13 21;cafes
+Kozy;46;37;Coffee & Tea, Breakfast & Brunch, Sandwiches;4887158;23069799;48 rue de Ponthieu 75008 Paris France;;cafes
+Cafe Les Rosiers;46;12;Pizza, Cafes, Coffee & Tea;488564612;23608376;2 rue des Rosiers 75004 Paris France;+33 1 48 87 94 09;cafes
+Yellow Tucan;46;12;Cafes;488547283;2367573;20 rue des Tournelles 75004 Paris France;;cafes
+Le Café Laurent;46;19;Bars, Jazz & Blues, Cafes;4885476;233948;Hôtel d'Aubusson 33 rue Dauphine 75006 Paris France;+33 1 43 29 03 33;cafes
+The Hardware Société;46;227;Coffee & Tea, Breakfast & Brunch, Australian;4888688;23445299;10 rue Lamarck 75018 Paris France;+33 1 42 51 69 03;cafes
+Le Pré;45;11;Cocktail Bars, Beer Bar, Cafes;4885301;233514;4 rue du Four 75006 Paris France;+33 1 40 46 93 22;cafes
+Baguett's Café | Coffeeshop & Brunch Everyday;45;266;Cafes, Breakfast & Brunch;4886528;233657;33 rue de Richelieu 75001 Paris France;+33 9 54 83 04 86;cafes
+Dose;45;74;Coffee & Tea;4884221;234983;73 rue Mouffetard 75005 Paris France;+33 1 43 36 65 03;cafes
+Anticafé;45;42;Cafes;48864178;2336246;10 rue de Richelieu 75001 Paris France;+33 1 73 71 72 86;cafes
+Illy Café;48;4;Cafes;48873181;2324155;37 rue de l'Arcade 75008 Paris France;+33 1 44 71 09 81;cafes
+Numéro 220;50;3;Cafes;48844944;2342091;220 rue Saint-Jacques 75005 Paris France;+33 6 66 93 58 71;cafes
+Un Grain Décalé;48;4;Coffee Roasteries, Cafes;4884461;233205;3 rue Vavin 75006 Paris France;+33 1 42 01 05 48;cafes
+Shakespeare and Company;45;376;Bookstores, Cafes;4,88527E+13;2,34696E+13;37 rue de la Bûcherie 75005 Paris France;+33 1 43 25 40 93;cafes
+Le Prince Racine;45;26;Cafes, Brasseries, French;48849857;2339913;22 rue Monsieur le Prince 75006 Paris France;+33 1 43 29 83 35;cafes
+BREIZH Café Odéon | La Crêpe Autrement;45;108;Creperies, Cafes, Seafood;48851586;233885;1 rue de l'Odéon 75006 Paris France;+33 1 42 49 34 73;cafes
+Saint Pearl;44;41;Coffee & Tea;48854947;2330499;38 rue des Saints-Pères 75007 Paris France;+33 1 71 50 16 73;cafes
+Café Blanc;44;78;French, Coffee & Tea, Breakfast & Brunch;4,88627E+14;2339585;10 rue Croix des Petits Champs 75001 Paris France;+33 1 42 33 55 85;cafes
+Café Madame;44;23;Breakfast & Brunch, Cafes;4,88484E+14;2,3318E+14;25 Rue de Vaugirard 75006 Paris France;+33 1 45 48 82 86;cafes
+Le Temps des Cerises;44;394;French, Bistros, Cafes;48852569;2364184;31 rue de la Cerisaie 75004 Paris France;+33 1 42 72 08 63;cafes
+Le Tiny Café;44;5;Bars, French, Cafes;4885518;237035;11 rue Daval 75011 Paris France;+33 6 22 10 82 09;cafes
+Cocorico;44;60;Breakfast & Brunch, Cafes;4885908;2329159;5 rue du Bac 75007 Paris France;+33 1 40 26 82 03;cafes
+Le Comptoir;44;135;Bistros, Cafes;488295898;233391;18 avenue René Coty 75014 Paris France;+33 1 43 22 61 91;cafes
+13 au Jardin;44;13;Cafes;4884864;23394499;5 rue de Médicis 75006 Paris France;;cafes
+Strada Café;44;78;Coffee & Tea, Breakfast & Brunch;48863188;2357273;94 rue du Temple 75003 Paris France;+33 1 44 61 09 28;cafes
+Le Lithographe;43;6;Cafes;4883898;233043;234 boulevard Raspail 75014 Paris France;+33 1 77 13 26 08;cafes
+Café Belloy;43;47;Cafes;48868988;2291886;37 avenue Kléber 75116 Paris France;+33 1 45 53 21 63;cafes
+Kozy Bosquet;43;362;Coffee & Tea, Breakfast & Brunch, Sandwiches;4885542;230539;79 avenue Bosquet 75007 Paris France;+33 1 85 09 45 19;cafes
+Le Café;43;69;Cafes;4886483;234588;62 rue Tiquetonne 75002 Paris France;+33 1 40 39 08 00;cafes
+Fragments;43;66;Cafes;488579908;23673476;76 rue des Tournelles 75003 Paris France;;cafes
+Le Café Alain Ducasse;50;2;Coffee & Tea;4884905;23257;47 rue du Cherche-Midi 75006 Paris France;+33 1 45 48 03 96;cafes
+Carette;42;177;Patisserie/Cake Shop, Macarons, Coffee & Tea;48856336;2365566;25 place des Vosges 75003 Paris France;+33 1 48 87 94 07;cafes
+Claus - La Table du Petit-Déjeuner;42;259;Breakfast & Brunch, Cafes;4886246;234053;14 rue Jean-Jacques Rousseau 75001 Paris France;+33 1 42 33 55 10;cafes
+Le Parisien;42;23;Cafes;4,88679E+13;2,35478E+14;337 rue Saint-Martin 75003 Paris France;+33 1 42 72 11 33;cafes
+L'Assignat;42;12;French, Cafes;488560717;23394757;7 rue Guénégaud 75006 Paris France;+33 1 43 54 87 68;cafes
+Cafés Richard;42;6;Coffee & Tea, Bakeries, Patisserie/Cake Shop;48857271;23571;25 rue Vieille du Temple 75004 Paris France;;cafes
+Verse Toujours;41;85;French, Brasseries, Cafes;4883843;23510399;3 ave des Gobelins 75005 Paris France;+33 1 43 31 06 98;cafes
+The Hood Paris;41;47;Coffee & Tea, Breakfast & Brunch, Diners;4886735;237638;80 rue Jean-Pierre Timbaud 75011 Paris France;+33 1 43 57 20 50;cafes
+Epicerie Breizh;41;481;Creperies, Cafes;48861039;2361757;109 rue Vieille du Temple 75003 Paris France;+33 1 42 72 13 77;cafes
+Anticafé;41;49;Cafes, Breakfast & Brunch;4,88623E+14;2,3511E+14;79 rue Quincampoix 75003 Paris France;+33 1 73 73 10 74;cafes
+Léandrés;50;5;Colombian, Cafes, Breakfast & Brunch;4887914;234801;78 rue de Maubeuge 75009 Paris France;+33 9 86 79 57 29;cafes
+Terres de Café;48;15;Coffee & Tea;48885;232077;33 Rue Batignolles 75017 Paris France;+33 1 44 90 96 13;cafes
+Nuage Café;48;19;Shared Office Spaces, Cafes;4884917;23475;14 rue des Carmes 75005 Paris France;+33 9 82 39 80 69;cafes
+Les Entretiens;47;6;Bars, Cafes, French;4,88702E+14;2,35618E+14;33 rue du Faubourg Saint-Martin 75010 Paris France;+33 1 42 06 84 26;cafes
+Aux Arts Etc...;46;62;Cafes, Art Galleries;4,88519E+14;2,349E+14;15 quai de Montebello 75005 Paris France;+33 1 56 81 68 77;cafes
+Radiodays;46;42;Coffee & Tea, Breakfast & Brunch, Patisserie/Cake Shop;4887159;236728;15 rue Alibert 75010 Paris France;;cafes
+Nuance Café;46;12;Cafes;4884508;235486;16 rue Linné 75005 Paris France;+33 6 66 05 86 06;cafes
+Cuppa;46;31;Coffee & Tea, Breakfast & Brunch;4885939;232349;86 rue de l'Université 75007 Paris France;+33 9 67 22 23 21;cafes
+Merci Jérôme!;45;30;Coffee & Tea, Bakeries;48849446;2298077;66 avenue de la Motte-Picquet 75015 Paris France;+33 7 81 86 16 01;cafes
+Neighbours;45;24;Breakfast & Brunch, Coffee & Tea;4,88591E+14;2367372;89 boulevard Beaumarchais 75003 Paris France;+33 7 67 99 99 91;cafes
+Cuillier;45;6;Coffee & Tea;48867594;2343618;85 rue Montmartre 75002 Paris France;;cafes
+Le Peloton Café;45;66;Desserts, Coffee & Tea;4885551;235594;17 rue du Pont Louis Philippe 75004 Paris France;+33 6 24 58 02 15;cafes
+Ob-la-Di;45;100;Breakfast & Brunch, Coffee & Tea;4886301;236403;54 rue de Saintonge 75003 Paris France;;cafes
+Nina's;45;24;Coffee & Tea;488680169;2331111;29 rue Danielle Casanova 75001 Paris France;+33 1 55 04 80 55;cafes
+Boot Café;45;57;Coffee & Tea;488611791;23653634;19 rue du Pont aux Choux 75003 Paris France;+33 1 73 70 14 57;cafes
+Honor;45;31;Coffee & Tea;4886949;231968;54 rue du Faubourg Saint-Honoré 75008 Paris France;+33 7 82 52 93 63;cafes
+Caffé Stern;44;16;Cafes, Italian;4,88709E+14;2,34109E+14;47 passage des Panoramas 75002 Paris France;+33 1 75 43 63 10;cafes
+Mariage Frères;44;59;Coffee & Tea, Tea Rooms;4885439;234066;13 rue Grands Augustins 75006 Paris France;+33 1 40 51 82 50;cafes
+Le Bichat;44;85;Cafes, Breakfast & Brunch;488697;236916;11 rue Bichat 75010 Paris France;+33 9 54 27 68 97;cafes
+Fleurus Café;44;27;Breakfast & Brunch, Cafes;48868828;2291766;39 avenue Kléber 75016 Paris France;+33 1 47 04 61 40;cafes
+Café Oberkampf;44;54;Cafes;4886469;237398;3 rue Neuve Popincourt 75011 Paris France;;cafes
+Partisan Café Artisanal;44;14;Cafes;48864652;2353094;36 rue de Turbigo 75003 Paris France;+33 6 08 25 88 32;cafes
+Peonies;43;23;Coffee & Tea, Florists;4887335;235465;81 rue du Faubourg Saint-Denis 75010 Paris France;;cafes
+Muscovado;43;23;Cafes, Breakfast & Brunch;4885558;2,37082E+14;1 rue Sedaine 75011 Paris France;+33 1 77 16 31 32;cafes
+Le Valois;43;26;French, Cafes, Brasseries;4,88775E+14;2,31025E+13;1 place Rio de Janeiro 75008 Paris France;+33 1 42 25 03 85;cafes
+Pozzetto;43;163;Coffee & Tea, Ice Cream & Frozen Yogurt;48856676;2,35624E+14;39 rue du Roi de Sicile 75004 Paris France;+33 1 42 77 08 64;cafes
+Strada Café;43;50;Coffee & Tea, Breakfast & Brunch;4884692;23512199;24 rue Monge 75005 Paris France;+33 9 72 45 12 87;cafes
+Yann Couvreur;43;32;Patisserie/Cake Shop, Breakfast & Brunch, Coffee & Tea;4885738;235894;23bis rue des Rosiers 75004 Paris France;+33 6 05 97 63 01;cafes
+Le Grand Cerf;43;25;Bars, French, Cafes;4886415;235113;79 bd Sebastopol 75002 Paris France;+33 1 42 33 06 80;cafes
+Dammann Frères;43;19;Coffee & Tea;4885586;236456;15 place des Vosges 75004 Paris France;+33 1 44 54 04 88;cafes
+Café Malongo;42;54;Cafes;48853487;2340656;50 rue Saint-André des Arts 75006 Paris France;+33 1 43 26 47 10;cafes
+Ten Belles;42;147;Coffee & Tea;4887354;236477;10 rue de la Grange aux Belles 75010 Paris France;+33 1 42 40 90 78;cafes
+Le Saint Placide;42;51;French, Breakfast & Brunch, Cafes;4884673;232685;127 rue de Rennes 75006 Paris France;+33 1 42 22 29 04;cafes
+Sunday in Soho;41;31;Cafes, Breakfast & Brunch;4887028;234149;7 rue Saint-Marc 75002 Paris France;+33 6 04 52 86 29;cafes
+Café Méricourt;41;31;Breakfast & Brunch, Coffee & Tea;48862494;2373695;22 rue de la Folie Méricourt 75011 Paris France;+33 1 43 38 94 04;cafes
+La Fontaine de Belleville;41;18;Cafes, Bars, Sandwiches;4887577;236856;31 - 33 rue Juliette Dodu 75010 Paris France;+33 9 81 75 54 54;cafes
+Shakespeare and Company Café;41;67;Cafes;4,88526E+14;2,34742E+14;37 rue de la Bûcherie 75005 Paris France;+33 1 43 25 95 95;cafes
+Les Délices du Fournil;41;52;Patisserie/Cake Shop, Cafes, Creperies;4885002;23479;2 rue Carmes 75005 Paris France;+33 1 43 54 14 47;cafes
+La Caféothèque;41;194;Cafes;4,88545E+14;2,35578E+14;52 rue de l'Hôtel de Ville 75004 Paris France;+33 1 53 01 83 84;cafes
+Machon d'Henri Le;41;62;French, Cafes, Coffee & Tea;4885188;233453;8 Rue Guisarde 75006 Paris France;+33 1 43 29 08 70;cafes
+Café Roussillon;41;101;Cafes;4885768;230593;186 rue de Grenelle 75007 Paris France;+33 1 45 51 47 53;cafes
+Café Pouchkine;40;60;Cafes;4887362;232833;64 bd Haussman 75009 Paris France;+33 1 42 82 43 31;cafes
+Café de la Poste;43;4;Cafes;4,88639E+14;2,36483E+14;124 rue de Turenne 75003 Paris France;+33 1 44 78 92 49;cafes
+Café Cour;43;4;Cafes;488594704;235761;55-57 rue des Francs-Bourgeois 75004 Paris France;+33 1 44 61 65 02;cafes
+Café du Coin;50;1;Cafes;48859021;23809707;9 rue Camille Desmoulins 75011 Paris France;+33 1 48 04 82 46;cafes
+Grand Bay Café;40;6;Cafes, Cocktail Bars;4886006;234644;11 rue des Halles 75001 Paris France;+33 6 59 32 56 36;cafes
+Le Choupinet;40;61;Brasseries, French, Cafes;488477332;2340714;58 boulevard Saint-Michel 75006 Paris France;+33 1 42 03 09 93;cafes
+Café Louise;40;126;Cafes, Brasseries;4,88539E+13;2,33211E+13;155 bd Saint Germain 75006 Paris France;+33 1 42 22 88 98;cafes
+L'Absinthe;40;27;Cafes;48865615;2357253;54 rue de Turbigo 75003 Paris France;+33 1 48 87 79 30;cafes
+Télescope;39;105;Coffee & Tea;48866128;2336226;5 rue Villédo 75001 Paris France;+33 1 42 61 33 14;cafes
+Arbane;49;19;Cocktail Bars, Dance Clubs;4885564;233835;10 rue Guénégaud 75006 Paris France;+33 1 44 07 32 43;bars
+Hoppy Corner;49;24;Beer Bar;488677599;234744;34 rue des Petits Carreaux 75002 Paris France;+33 9 83 06 90 39;bars
+Little Big Bear;48;13;Beer Bar, Pubs;4884957;234021;45 rue Monsieur le Prince 75006 Paris France;+33 1 43 26 45 69;bars
+Bubar;48;38;Wine Bars;4885398;236728;3 rue des Tournelles 75004 Paris France;+33 1 40 29 97 72;bars
+Chez Marie;48;6;Bars;4887324;237062;219 rue Saint-Maur 75010 Paris France;+33 1 42 01 35 08;bars
+The Cambridge Public House;48;11;Cocktail Bars, Pubs;4886144;236414;8 rue de Poitou 75003 Paris France;+33 1 43 36 86 60;bars
+Bisou.;48;47;Cocktail Bars;48864068;2365836;15 boulevard du Temple 75003 Paris France;+33 1 40 27 82 85;bars
+No Entry;48;14;Cocktail Bars, Speakeasies;4,88818E+14;2,33469E+14;20 bis rue de Douai 75009 Paris France;+33 6 67 24 99 25;bars
+Le Bastide;48;8;Bars;4885385;237232;18 rue de Lappe 75011 Paris France;;bars
+BlueBird;48;8;Cocktail Bars;4885133;23817;12 Rue Saint-Bernard 75011 Paris France;;bars
+Isadora;50;4;Bars;48864047;2343663;60 rue Jean-Jacques Rousseau 75001 Paris France;+33 9 53 13 67 70;bars
+Gatsby;47;43;Bars;4885501;230504;64 avenue Bosquet 75007 Paris France;+33 1 45 51 56 24;bars
+Cave du 38 Riv';47;37;Jazz & Blues, Music Venues;4,88564E+14;2,35637E+14;38 rue de Rivoli 75004 Paris France;+33 1 48 87 56 30;bars
+Resistance;47;18;Cocktail Bars, Lounges;4885807;235672;16 rue Sainte-Croix de la Bretonnerie 75004 Paris France;+33 1 43 48 14 88;bars
+Les Ambassadeurs;47;14;Cocktail Bars, Champagne Bars;488673;232113;10 place de la Concorde 75008 Paris France;+33 1 44 71 15 80;bars
+Le Vieux Chêne;47;12;Sports Bars;488423426;23498316;69 rue Mouffetard 75005 Paris France;+33 1 72 60 79 81;bars
+Black Mad Crawler;47;6;Irish Pub;4886661;236946;140 bd Richard Lenoir 75011 Paris France;+33 1 82 07 04 06;bars
+La Chich'Art;46;70;Hookah Bars;4884463;23108;6 boulevard Pasteur 75015 Paris France;+33 1 43 48 31 64;bars
+Little Bastards;46;16;Cocktail Bars;48844424;2348823;5 rue Blainville 75005 Paris France;+33 1 43 54 28 33;bars
+Le Café Laurent;46;19;Bars, Jazz & Blues, Cafes;4885476;233948;Hôtel d'Aubusson 33 rue Dauphine 75006 Paris France;+33 1 43 29 03 33;bars
+Inside Bar;46;23;Cocktail Bars, Lounges;48848077;2388073;14 rue Claude Tillier 75012 Paris France;+33 1 43 48 09 04;bars
+Le Calbar;46;106;Cocktail Bars;4884853;237564;82 rue de Charenton 75012 Paris France;+33 1 84 06 18 90;bars
+Le Pré;45;11;Cocktail Bars, Beer Bar, Cafes;4885301;233514;4 rue du Four 75006 Paris France;+33 1 40 46 93 22;bars
+Le Barav;45;200;Wine Bars;4886518;236319;6 rue Charles François Dupuis 75003 Paris France;+33 1 48 04 57 59;bars
+Danico;45;27;Cocktail Bars;48867173;23393067;6 rue Vivienne 75002 Paris France;;bars
+Verjus;45;22;Wine Bars, Tapas/Small Plates;4,88664E+14;2,33732E+14;47 rue Montpensier 75001 Paris France;+33 1 42 97 54 40;bars
+Pili Pili;45;37;Cocktail Bars;4,8867E+13;2,37493E+14;70 rue Jean Pierre Timbaud 75011 Paris France;+33 6 62 08 53 58;bars
+The Frog & Underground;45;52;Pubs, American, Brasseries;48871088;2343115;176 rue Montmartre 75002 Paris France;+33 1 44 82 04 72;bars
+Les Pirates;45;22;Cocktail Bars;4,88655E+14;2,37663E+14;88 rue Oberkampf 75011 Paris France;+33 1 43 38 37 53;bars
+The Quiet Man;44;18;Pubs;4886167;235735;5 rue Haudriettes 75003 Paris France;+33 1 48 04 02 77;bars
+Ritz Bar;44;14;Bars;48868108;2328869;15 place Vendôme 75001 Paris France;+33 1 43 16 33 74;bars
+Little Red Door;44;279;Cocktail Bars;4886378;23636;60 rue Charlot 75003 Paris France;+33 1 42 71 19 32;bars
+Sherry Butt;44;98;Cocktail Bars, French;4885328;236409;20 rue Beautreillis 75004 Paris France;+33 9 83 38 47 80;bars
+The Coq & Bulldog;44;8;Pubs;4,88817E+14;2,32834E+14;64 rue de Clichy 75009 Paris France;+33 9 82 40 56 36;bars
+L'Avant Comptoir;44;724;Tapas Bars, Wine Bars;4885202;23388;3 carrefour de l'Odéon 75006 Paris France;+33 1 42 38 47 55;bars
+Chez Papa Jazz Club;44;52;Jazz & Blues, French;488553886;23334401;3 rue Saint-Benoît 75006 Paris France;+33 1 42 86 99 63;bars
+Bonvivant;44;36;Wine Bars;488475685;235201;7 rue des Ecoles 75005 Paris France;+33 1 43 26 51 34;bars
+La Légende;43;9;Cocktail Bars, Beer Bar;4,88877E+13;2,3204E+13;100 rue Legendre 75017 Paris France;+33 7 70 27 48 97;bars
+La Folie en Tête;43;35;Bars;4882754;234812;33 rue de la Butte aux Cailles 75013 Paris 13 France;+33 1 45 80 65 99;bars
+WOS - Wide Open Space Bar;43;42;Pubs, Cocktail Bars;4884623;234296;184 rue Saint-Jacques 75005 Paris France;+33 1 43 54 30 48;bars
+Bar 228;43;20;Lounges, Cocktail Bars;48865331;232813;228 rue de Rivoli 75001 Paris France;+33 1 44 58 10 66;bars
+Bar Hemingway;43;104;Cocktail Bars;48868768;2327504;15 place Vendôme 75001 Paris France;+33 1 43 16 33 74;bars
+Le Bar du Plaza Athénée;43;35;Lounges, Cocktail Bars;4,88663E+14;2,30425E+14;25 avenue Montaigne 75008 Paris France;+33 1 53 67 66 00;bars
+Castor Club;43;37;Cocktail Bars;4885197;234236;14 rue Hautefeuille 75006 Paris France;+33 9 50 64 99 38;bars
+The Brooklyn;43;23;Wine Bars, Cocktail Bars, French;4886137;23507;58 rue Quincampoix 75004 Paris France;+33 9 67 19 54 69;bars
+Marlusse et Lapin;43;93;Bars;4888374;233675;14 rue Germain Pilon 75018 Paris France;+33 1 42 59 17 97;bars
+Bar Joséphine;43;8;Lounges;4885121;232706;45 boulevard Raspail 75006 Paris France;;bars
+Le Bar à Bulles;45;4;Champagne Bars;488732;233242;40 boulevard Haussmann Galerie Lafayette Haussmann 1er étage 75009 Paris France;+33 1 41 82 79 70;bars
+Bar Nouveau;43;8;Cocktail Bars;488615355;2357554;5 Rue Des Haudriettes 75003 Paris France;;bars
+Baby Doll;50;2;Cocktail Bars;4886981;233111;16 rue Daunou 75002 Paris France;+33 6 47 94 32 10;bars
+Le Chanard;50;8;Wine Bars, Bistros, Cocktail Bars;488530299;236129;8 rue Saint-Paul 75004 Paris France;+33 1 48 04 75 89;bars
+Golden Promise;50;10;Whiskey Bars;4886449;23491399;11 rue Tiquetonne 75002 Paris France;;bars
+Nightflight;48;6;Cocktail Bars;4886619;234502;18 Rue Bachaumont 75002 Paris France;+33 1 81 66 47 00;bars
+L'Ambre Bar;47;34;Cocktail Bars;488787095;22877119;29 rue Brunel 75017 Paris France;+33 1 45 74 11 04;bars
+L'Alsacien;47;70;Beer Bar, Wine Bars, Alsatian;4,88582E+14;2,35043E+14;6 rue Saint-Bon 75004 Paris France;+33 1 42 77 64 22;bars
+Frenchie Bar à Vins ;46;161;Wine Bars, Wine Tasting Room;488678119;23479551;6 rue du Nil 75002 Paris France;+33 1 40 39 96 19;bars
+Lulu White;45;83;Cocktail Bars;4888165;233745;12 rue Frochot 75009 Paris France;;bars
+Express 14;45;6;Pubs;4883544;232545;73 rue Daguerre 75014 Paris France;+33 1 43 35 45 39;bars
+La Petite;45;6;Tapas/Small Plates, Beer Bar, Cocktail Bars;4,88443E+14;2,34995E+14;53 rue Lacépède 75005 Paris France;+33 1 43 37 88 37;bars
+Le Mensch;45;8;Gay Bars;4886252;236223;34 rue Charlot 75003 Paris France;+33 9 53 53 38 84;bars
+Bistro des Augustins;44;547;Bistros, Wine Bars;48854754;2342119;39 quai des Grands Augustins 75006 Paris France;+33 1 43 54 04 41;bars
+Le Bar Botaniste;44;14;Lounges, Cocktail Bars;4,88641E+14;2,29379E+14;10 avenue Iéna 75116 Paris France;+33 1 53 67 19 98;bars
+Le Dokhan's;44;19;Champagne Bars;4886636;228674;117 rue Lauriston 75116 Paris France;+33 1 53 65 66 99;bars
+Le Syndicat;44;88;Cocktail Bars;4887187563;235379652;51 rue du Faubourg Saint-Denis 75010 Paris France;;bars
+Chez Camille;43;23;Bars;4888552;23379;8 rue Ravignan 75018 Paris France;+33 1 42 57 75 62;bars
+Café Universel;43;21;Jazz & Blues;488416782;234139;267 rue Saint-Jacques 75005 Paris France;+33 1 43 25 74 20;bars
+Ober Mamma;43;353;Pizza, Italian, Cocktail Bars;4886446;237018;107 boulevard Richard Lenoir 75011 Paris France;+33 1 58 30 62 78;bars
+Buckingham Bar;43;7;Cocktail Bars;4,88689E+14;2,33364E+14;32 rue Saint-Augustin 75002 Paris France;+33 1 42 65 93 77;bars
+Scilicet;50;2;Bars;48857243;2346597;134 voie Georges Pompidou 75001 Paris France;+33 6 11 29 32 88;bars
+Le Social Bar;45;4;Bars, Venues & Event Spaces;4,88417E+14;2,37541E+14;25 rue Villiot 75012 Paris France;+33 7 81 37 93 96;bars
+Gentlemen 1919;42;13;Barbers, Cocktail Bars, Hair Salons;4,88709E+14;2,3115E+14;11 rue Jean Mermoz 75008 Paris France;+33 1 42 89 42 59;bars
+Dirty Dick;42;285;Cocktail Bars, Lounges;4888153;233751;10 rue Frochot 75009 Paris France;+33 1 48 78 74 58;bars
+Carpe Diem Café;42;171;French, Lounges, Cocktail Bars;488605269;23459065;21 rue des Halles 75001 Paris France;+33 1 42 21 02 01;bars
+Le Black Dog;42;119;Bars, Argentine;4885943;234918;26 rue des Lombards 75004 Paris France;+33 1 42 71 22 27;bars
+Le Chouff'bar;42;11;Bars;488429985;234866;16 rue du Pot de Fer 75005 Paris France;+33 1 45 35 90 23;bars
+Ha'Penny Bridge;42;29;Irish Pub;4885784;230717;153 rue de Grenelle 75007 Paris France;+33 1 71 60 64 27;bars
+Smoke;42;87;Bars, French;4884143;232664;29 rue Delambre 75014 Paris France;+33 1 43 20 61 73;bars
+De Voltaire à Rousseau;47;3;Pubs, Bistros;488621712;23399601;4 rue Jean-Jacques Rousseau 75001 Paris France;+33 1 42 60 88 36;bars
+Les Copains;47;3;Bars;488746099;235395;11 rue de Paradis 75010 Paris France;+33 9 52 94 17 60;bars
+Solera;47;3;Cocktail Bars;4884029;234069;283 rue Saint-Jacques 75005 Paris France;+33 6 24 69 69 49;bars
+La Manufacture;41;29;Bars, French, Brasseries;4,88334E+14;2,35405E+14;62 ave des Gobelins 75013 Paris France;+33 1 43 31 01 36;bars
+Tiki Lounge;41;25;Lounges;4886822;237165;26 Bis Rue Fontaine Au Roi 75011 Paris France;+33 1 55 28 57 72;bars
+Le Galway Irish Pub;41;53;Burgers, Irish Pub;488539085;23436466;13 quai des Grands Augustins 75006 Paris France;+33 1 43 29 64 50;bars
+Moonshiner;41;97;Cocktail Bars;4885565;237119;5 rue Sedaine 75011 Paris France;+33 9 50 73 12 99;bars
+Lavomatic;41;84;Cocktail Bars, Tapas/Small Plates, Wine Bars;4,88685E+14;2,362E+14;30 rue René Boulanger 75010 Paris France;;bars
+KIEZ Biergarten;41;48;German, Beer Bar, Beer Gardens;4,88936E+14;2,33334E+14;24 rue Vauvenargues 75018 Paris France;+33 6 25 67 63 40;bars
+Proibido;41;51;Bars, Tapas Bars;4888659;23357199;34 rue Durantin 75018 Paris France;+33 1 42 23 97 05;bars
+Experimental Cocktail Club;41;212;Cocktail Bars;48866064;2348259;37 rue Saint-Sauveur 75002 Paris France;+33 1 45 08 88 09;bars
+Stolly's;41;40;Pubs;4885639;235733;16 rue Cloche-Perce 75004 Paris France;+33 1 42 76 06 76;bars
+Caveau de la Huchette;41;108;Jazz & Blues;4,88528E+14;2,34625E+14;5 rue de la Huchette 75005 Paris France;+33 1 43 26 65 05;bars
+Le Piano Vache;41;85;Bars, Music Venues;4884729;23477199;8 rue Laplace 75005 Paris France;+33 1 46 33 75 03;bars
+Lipstick;41;16;Cocktail Bars;488814544;23373631;5 rue Frochot 75009 Paris France;+33 6 14 40 82 02;bars
+Pop In;41;67;Bars, Music Venues;4886156;236763;105 Rue Amelot 75011 Paris France;+33 1 48 05 56 11;bars
+Prescription Cocktail Club;41;152;Cocktail Bars;4,8855E+13;2,33792E+13;23 rue Mazarine 75006 Paris France;+33 9 50 35 72 87;bars
+Chez Georges;40;101;Wine Bars, Bistros;48852216;2333847;11 rue des Cannettes 75006 Paris France;+33 1 43 26 79 15;bars
+Le Cavern;40;73;Dance Clubs, Bars, Music Venues;4885533;233982;21 rue Dauphine 75006 Paris France;+33 1 43 54 53 82;bars
+10 Bar;40;68;Bars;4885105;233859;10 rue de l'Odéon 75006 Paris France;+33 1 43 26 66 83;bars
+Barapapa;40;8;Bars;48841962;2371295;11 Port de la Rapée 75012 Paris France;;bars
+Zéro Zéro;40;40;Cocktail Bars;4886047;2367768;89 rue Amelot 75011 Paris France;+33 1 49 23 51 00;bars
+Potion and Co;50;1;Escape Games, Cocktail Bars;4,88613E+14;2,34302E+14;99 rue Saint-Honoré 75001 Paris France;+33 1 83 64 18 14;bars
+Le Colisée;50;6;French, Dance Clubs;4887079;2308084;17 rue du Colisée 75008 Paris France;+33 6 09 78 53 34;nightlife
+Arbane;49;19;Cocktail Bars, Dance Clubs;4885564;233835;10 rue Guénégaud 75006 Paris France;+33 1 44 07 32 43;nightlife
+Hoppy Corner;49;24;Beer Bar;488677599;234744;34 rue des Petits Carreaux 75002 Paris France;+33 9 83 06 90 39;nightlife
+Little Big Bear;48;13;Beer Bar, Pubs;4884957;234021;45 rue Monsieur le Prince 75006 Paris France;+33 1 43 26 45 69;nightlife
+No Entry;48;14;Cocktail Bars, Speakeasies;4,88818E+14;2,33469E+14;20 bis rue de Douai 75009 Paris France;+33 6 67 24 99 25;nightlife
+Gatsby;47;43;Bars;4885501;230504;64 avenue Bosquet 75007 Paris France;+33 1 45 51 56 24;nightlife
+Cave du 38 Riv';47;37;Jazz & Blues, Music Venues;4,88564E+14;2,35637E+14;38 rue de Rivoli 75004 Paris France;+33 1 48 87 56 30;nightlife
+Resistance;47;18;Cocktail Bars, Lounges;4885807;235672;16 rue Sainte-Croix de la Bretonnerie 75004 Paris France;+33 1 43 48 14 88;nightlife
+Les Ambassadeurs;47;14;Cocktail Bars, Champagne Bars;488673;232113;10 place de la Concorde 75008 Paris France;+33 1 44 71 15 80;nightlife
+L'Alsacien;47;70;Beer Bar, Wine Bars, Alsatian;4,88582E+14;2,35043E+14;6 rue Saint-Bon 75004 Paris France;+33 1 42 77 64 22;nightlife
+Le Vieux Chêne;47;12;Sports Bars;488423426;23498316;69 rue Mouffetard 75005 Paris France;+33 1 72 60 79 81;nightlife
+La Chich'Art;46;70;Hookah Bars;4884463;23108;6 boulevard Pasteur 75015 Paris France;+33 1 43 48 31 64;nightlife
+Little Bastards;46;16;Cocktail Bars;48844424;2348823;5 rue Blainville 75005 Paris France;+33 1 43 54 28 33;nightlife
+Le Café Laurent;46;19;Bars, Jazz & Blues, Cafes;4885476;233948;Hôtel d'Aubusson 33 rue Dauphine 75006 Paris France;+33 1 43 29 03 33;nightlife
+Le Calbar;46;106;Cocktail Bars;4884853;237564;82 rue de Charenton 75012 Paris France;+33 1 84 06 18 90;nightlife
+Danico;45;27;Cocktail Bars;48867173;23393067;6 rue Vivienne 75002 Paris France;;nightlife
+Pili Pili;45;37;Cocktail Bars;4,8867E+13;2,37493E+14;70 rue Jean Pierre Timbaud 75011 Paris France;+33 6 62 08 53 58;nightlife
+Les Pirates;45;22;Cocktail Bars;4,88655E+14;2,37663E+14;88 rue Oberkampf 75011 Paris France;+33 1 43 38 37 53;nightlife
+The Quiet Man;44;18;Pubs;4886167;235735;5 rue Haudriettes 75003 Paris France;+33 1 48 04 02 77;nightlife
+Little Red Door;44;279;Cocktail Bars;4886378;23636;60 rue Charlot 75003 Paris France;+33 1 42 71 19 32;nightlife
+Sherry Butt;44;98;Cocktail Bars, French;4885328;236409;20 rue Beautreillis 75004 Paris France;+33 9 83 38 47 80;nightlife
+L'Avant Comptoir;44;724;Tapas Bars, Wine Bars;4885202;23388;3 carrefour de l'Odéon 75006 Paris France;+33 1 42 38 47 55;nightlife
+Chez Papa Jazz Club;44;52;Jazz & Blues, French;488553886;23334401;3 rue Saint-Benoît 75006 Paris France;+33 1 42 86 99 63;nightlife
+La Folie en Tête;43;35;Bars;4882754;234812;33 rue de la Butte aux Cailles 75013 Paris 13 France;+33 1 45 80 65 99;nightlife
+Shake n' Smash;43;36;Cocktail Bars;48866808;2361149;87 rue de Turbigo 75003 Paris France;+33 1 42 72 30 76;nightlife
+Bar 228;43;20;Lounges, Cocktail Bars;48865331;232813;228 rue de Rivoli 75001 Paris France;+33 1 44 58 10 66;nightlife
+Bar Hemingway;43;104;Cocktail Bars;48868768;2327504;15 place Vendôme 75001 Paris France;+33 1 43 16 33 74;nightlife
+Le Bar du Plaza Athénée;43;35;Lounges, Cocktail Bars;4,88663E+14;2,30425E+14;25 avenue Montaigne 75008 Paris France;+33 1 53 67 66 00;nightlife
+Castor Club;43;37;Cocktail Bars;4885197;234236;14 rue Hautefeuille 75006 Paris France;+33 9 50 64 99 38;nightlife
+The Brooklyn;43;23;Wine Bars, Cocktail Bars, French;4886137;23507;58 rue Quincampoix 75004 Paris France;+33 9 67 19 54 69;nightlife
+Marlusse et Lapin;43;93;Bars;4888374;233675;14 rue Germain Pilon 75018 Paris France;+33 1 42 59 17 97;nightlife
+Baby Doll;50;2;Cocktail Bars;4886981;233111;16 rue Daunou 75002 Paris France;+33 6 47 94 32 10;nightlife
+Dirty Dick;42;285;Cocktail Bars, Lounges;4888153;233751;10 rue Frochot 75009 Paris France;+33 1 48 78 74 58;nightlife
+Ice Kube;42;33;Cocktail Bars, Lounges;48887466;2358853;1-5 passage Ruelle 75018 Paris France;+33 1 42 05 20 00;nightlife
+Carpe Diem Café;42;171;French, Lounges, Cocktail Bars;488605269;23459065;21 rue des Halles 75001 Paris France;+33 1 42 21 02 01;nightlife
+Le Black Dog;42;119;Bars, Argentine;4885943;234918;26 rue des Lombards 75004 Paris France;+33 1 42 71 22 27;nightlife
+Smoke;42;87;Bars, French;4884143;232664;29 rue Delambre 75014 Paris France;+33 1 43 20 61 73;nightlife
+Tiki Lounge;41;25;Lounges;4886822;237165;26 Bis Rue Fontaine Au Roi 75011 Paris France;+33 1 55 28 57 72;nightlife
+Moonshiner;41;97;Cocktail Bars;4885565;237119;5 rue Sedaine 75011 Paris France;+33 9 50 73 12 99;nightlife
+Experimental Cocktail Club;41;212;Cocktail Bars;48866064;2348259;37 rue Saint-Sauveur 75002 Paris France;+33 1 45 08 88 09;nightlife
+Stolly's;41;40;Pubs;4885639;235733;16 rue Cloche-Perce 75004 Paris France;+33 1 42 76 06 76;nightlife
+Caveau de la Huchette;41;108;Jazz & Blues;4,88528E+14;2,34625E+14;5 rue de la Huchette 75005 Paris France;+33 1 43 26 65 05;nightlife
+Le Piano Vache;41;85;Bars, Music Venues;4884729;23477199;8 rue Laplace 75005 Paris France;+33 1 46 33 75 03;nightlife
+Lipstick;41;16;Cocktail Bars;488814544;23373631;5 rue Frochot 75009 Paris France;+33 6 14 40 82 02;nightlife
+Pop In;41;67;Bars, Music Venues;4886156;236763;105 Rue Amelot 75011 Paris France;+33 1 48 05 56 11;nightlife
+Prescription Cocktail Club;41;152;Cocktail Bars;4,8855E+13;2,33792E+13;23 rue Mazarine 75006 Paris France;+33 9 50 35 72 87;nightlife
+Chez Georges;40;101;Wine Bars, Bistros;48852216;2333847;11 rue des Cannettes 75006 Paris France;+33 1 43 26 79 15;nightlife
+Le Cavern;40;73;Dance Clubs, Bars, Music Venues;4885533;233982;21 rue Dauphine 75006 Paris France;+33 1 43 54 53 82;nightlife
+Supersonic;40;6;Dance Clubs, Bars, Music Venues;4885025;236971;9 rue Biscornet 75012 Paris France;+33 1 46 28 12 90;nightlife
+Zéro Zéro;40;40;Cocktail Bars;4886047;2367768;89 rue Amelot 75011 Paris France;+33 1 49 23 51 00;nightlife
+Nightflight;48;6;Cocktail Bars;4886619;234502;18 Rue Bachaumont 75002 Paris France;+33 1 81 66 47 00;nightlife
+Le Bastide;48;8;Bars;4885385;237232;18 rue de Lappe 75011 Paris France;;nightlife
+Black Mad Crawler;47;6;Irish Pub;4886661;236946;140 bd Richard Lenoir 75011 Paris France;+33 1 82 07 04 06;nightlife
+Bar à Champagne de la Tour Eiffel;46;14;Champagne Bars;4,88564E+13;2,29783E+14;5 avenue Anatole France 3ème étage 75007 Paris France;;nightlife
+Alchimie;46;20;Hookah Bars;4883705855;232145061;20 rue de l'Ouest 75014 Paris France;+33 1 45 38 91 52;nightlife
+Le Pré;45;11;Cocktail Bars, Beer Bar, Cafes;4885301;233514;4 rue du Four 75006 Paris France;+33 1 40 46 93 22;nightlife
+Lulu White;45;83;Cocktail Bars;4888165;233745;12 rue Frochot 75009 Paris France;;nightlife
+Le Barav;45;200;Wine Bars;4886518;236319;6 rue Charles François Dupuis 75003 Paris France;+33 1 48 04 57 59;nightlife
+Les Papilles;45;274;Wine Bars, Bistros;4884461;234174;30 rue Gay-Lussac 75005 Paris France;+33 1 43 25 20 79;nightlife
+Le Dude;44;23;Cocktail Bars;4887336;237076;214 rue Saint Maur 75010 Paris France;+33 9 73 54 27 14;nightlife
+Le Dokhan's;44;19;Champagne Bars;4886636;228674;117 rue Lauriston 75116 Paris France;+33 1 53 65 66 99;nightlife
+La Médina;44;5;Lounges, Hookah Bars;4886198;235103;72 rue Quincampoix 75003 Paris France;+33 6 49 33 48 93;nightlife
+Le Braque;44;5;Cocktail Bars, French;48861148;2356231;11 rue de Braque 75003 Paris France;+33 1 40 27 86 63;nightlife
+BAM Karaoke Box Richer;44;20;Cocktail Bars, Karaoke;4887409;234515;30 rue Richer 75009 Paris France;+33 1 48 00 94 65;nightlife
+Chez Camille;43;23;Bars;4888552;23379;8 rue Ravignan 75018 Paris France;+33 1 42 57 75 62;nightlife
+Café Universel;43;21;Jazz & Blues;488416782;234139;267 rue Saint-Jacques 75005 Paris France;+33 1 43 25 74 20;nightlife
+WOS - Wide Open Space Bar;43;42;Pubs, Cocktail Bars;4884623;234296;184 rue Saint-Jacques 75005 Paris France;+33 1 43 54 30 48;nightlife
+Ober Mamma;43;353;Pizza, Italian, Cocktail Bars;4886446;237018;107 boulevard Richard Lenoir 75011 Paris France;+33 1 58 30 62 78;nightlife
+Bar Joséphine;43;8;Lounges;4885121;232706;45 boulevard Raspail 75006 Paris France;;nightlife
+Baton Rouge Pigalle;42;42;Cocktail Bars, Tapas/Small Plates;488802;233551;62 rue Notre Dame de Lorette 75009 Paris France;+33 6 52 90 36 42;nightlife
+La Suite;42;6;Music Venues;48834;23449399;27 rue de la Glacière 75013 Paris France;;nightlife
+La Manufacture;41;29;Bars, French, Brasseries;4,88334E+14;2,35405E+14;62 ave des Gobelins 75013 Paris France;+33 1 43 31 01 36;nightlife
+Le Mary Céleste;41;159;Tapas/Small Plates, Cocktail Bars;4,88617E+14;2,36506E+14;1 rue Commines 75003 Paris France;+33 1 23 45 67 89;nightlife
+Cabaret Sauvage;41;52;Cabaret, Music Venues;48895415;2392187;Parc de la Villette 211 avenue Jean Jaures 75019 Paris France;+33 1 42 09 03 09;nightlife
+10 Bar;40;68;Bars;4885105;233859;10 rue de l'Odéon 75006 Paris France;+33 1 43 26 66 83;nightlife
+Aux Trois Mailletz;40;72;French, Cabaret, Piano Bars;48852597;2346612;56 rue Galande 75005 Paris France;+33 1 43 54 00 79;nightlife
+The Highlander;40;68;Pubs;4885598;233977;8 rue de Nevers 75006 Paris France;+33 6 07 55 46 85;nightlife
+Le Crocodile;40;93;Cocktail Bars;4884574;234214;6 rue Royer Collard 75005 Paris France;+33 1 71 93 49 68;nightlife
+La Mécanique Ondulatoire;40;45;Bars, Music Venues;4,88535E+13;2,37461E+12;8 passage Thiéré 75011 Paris France;+33 1 43 55 69 14;nightlife
+The Mazet;39;38;Pubs;4885358696;233878877;61 rue Saint André des Arts 75006 Paris France;+33 1 42 03 40 95;nightlife
+L'International;39;81;Music Venues, Bars, Dance Clubs;48866812;23798665;5-7 rue Moret 75011 Paris France;+33 9 80 53 76 41;nightlife
+Aux Folies;39;44;Bars;48872288;2378046;8 rue de Belleville 75020 Paris France;+33 6 14 17 91 33;nightlife
+Les Furieux;39;52;Bars;488558916;23752489;74 rue Roquette 75011 Paris France;+33 1 47 00 78 44;nightlife
+Lounge Bar View Rooftop;39;16;Lounges, Cocktail Bars;488399614;23030077;257 rue de Vaugirard 75015 Paris France;+33 1 40 45 12 90;nightlife
+The Long Hop;39;79;Pubs, Sports Bars, Music Venues;4885052;234899;25/27 rue Frédéric Sauton 75005 Paris France;+33 1 43 29 40 54;nightlife
+Les Ecuries;39;7;Lounges, Cocktail Bars, Tapas Bars;488660393;23460701;8 rue Bachaumont 75002 Paris France;+33 1 40 26 80 06;nightlife
+Candelaria;39;363;Mexican, Speakeasies;48862981;2364033;52 rue de Saintonge 75003 Paris France;+33 1 42 74 41 28;nightlife
+Le P'tit Garage;38;29;Bars;4886708;23751;63 rue Jean-Pierre Timbaud 75011 Paris France;+33 1 48 07 08 12;nightlife
+Little Temple Bar;38;23;Pubs, Sports Bars, Beer Bar;48852262;23344837;12 rue Princesse 75006 Paris France;+33 1 42 38 36 49;nightlife
+Some Girls;38;11;Pubs;4885323;237376;43 rue de Lappe 75011 Paris France;;nightlife
+The Moose;38;241;Restaurants, Sports Bars;488518;23377;16 rue des Quatre Vents 75006 Paris France;+33 1 46 33 77 00;nightlife
+Le Comptoir Général;38;235;Venues & Event Spaces, Cocktail Bars;4887215;236502;80 quai de Jemmapes 75010 Paris France;+33 1 44 88 24 48;nightlife
+Le 43 Up On The Roof;38;32;Lounges, Cocktail Bars, Wine Bars;4885267407;23422645;4 rue Danton 75006 Paris France;+33 1 81 69 00 60;nightlife
+Le Caveau des Oubliettes;38;45;Jazz & Blues, Bars, Music Venues;4885204;23466;52 Rue Galande 75005 Paris France;+33 1 46 34 23 09;nightlife
+Le Bar à Ciel ouvert by Krug;45;2;Bars;4886377;229322;10 avenue d'Iéna 75116 Paris France;+33 1 53 67 19 98;nightlife
+Café Voulez-Vous;38;32;Bars, Brasseries;48858519;2353491;18 rue du Temple 75004 Paris France;+33 1 83 62 22 20;nightlife
+Harry's New York Bar;37;183;Piano Bars;4,8869E+13;2,33207E+13;5 rue Daunou 75002 Paris France;+33 1 42 61 71 14;nightlife
+Ballroom;37;66;Cocktail Bars;4886396;234351;58 rue Jean Jacques Rousseau 75001 Paris France;+33 9 52 52 89 34;nightlife
+Les Caves Saint-Sabin;37;26;Dance Clubs;4885861;23691;50 rue Saint Sabin 75011 Paris France;+33 1 40 21 00 13;nightlife
+Le Baiser Salé;37;58;Jazz & Blues;48859868;2347759;58 rue des Lombards 75001 Paris France;+33 1 42 33 37 71;nightlife
+La Galerie Dior;50;29;Museums, Art Tours, Fashion;4886653;230697;11 Rue François 1er 75008 Paris France;;museums
+Memorial de la Shoah;47;23;Museums;4885481;23564;17 rue Geoffroy l'Asnier 75004 Paris France;+33 1 42 77 44 72;museums
+Orangerie du jardin du Luxembourg;47;7;Museums;4884704;2332424;5 Rue Guynemer 75006 Paris France;+33 1 42 34 33 99;museums
+Musée d’Orsay;46;985;Museums;4,88604E+14;2,32502E+14;1 rue de la Légion d'Honneur 75007 Paris France;+33 1 40 49 48 14;museums
+Musée de l’Orangerie;46;250;Museums;48863791;2322667;Place de la Concorde Jardin des Tuileries 75001 Paris France;+33 1 44 77 80 07;museums
+Opéra National de Paris - Palais Garnier;46;276;Landmarks & Historical Buildings, Opera & Ballet;488719444;23316667;8 rue Scribe 75009 Paris France;+33 1 71 25 24 23;museums
+La Tour Eiffel;46;2156;Landmarks & Historical Buildings;48858368;2,29448E+14;5 avenue Anatole France Champ de Mars 75007 Paris France;+33 892 70 12 39;museums
+Musée Marmottan Monet;46;75;Museums;488591399;226755;2 rue Louis Boilly 75016 Paris France;+33 1 44 96 50 33;museums
+Musée des Arts Forains - Les Pavillons de Bercy;46;43;Museums;4883243508;23890405;53 avenue des Terroirs de France 75012 Paris France;+33 1 43 40 16 22;museums
+Baccarat;45;11;Home Decor, Museums, Tableware;4886804;22931;11 Place Etats Unis 75116 Paris France;+33 1 40 22 11 00;museums
+Le Musée de Montmartre;45;28;Museums;4888771;234058;12 rue Cortot 75018 Paris France;+33 1 49 25 89 39;museums
+Musée du Louvre;45;2264;Museums;4886206;2334521;Place du Carrousel 75001 Paris France;+33 1 40 20 50 50;museums
+Atelier des Lumières;45;43;Museums;48861663;2380766;38 rue Saint-Maur 75011 Paris France;+33 1 80 98 46 00;museums
+Musée Rodin;45;283;Museums;48855308;2315834;77 rue de Varenne 75007 Paris France;+33 1 44 18 61 10;museums
+L'Arc de Triomphe;45;708;Landmarks & Historical Buildings;4,88738E+14;2,29502E+14;Place de l'Étoile 75008 Paris France;+33 1 55 37 73 77;museums
+Basilique du Sacré-Cœur de Montmartre;45;629;Churches, Landmarks & Historical Buildings;4888709;234343;35 rue du Chevalier de la Barre 75018 Paris France;+33 1 53 41 89 00;museums
+Palais du Luxembourg;44;89;Landmarks & Historical Buildings;4,88482E+14;2,33731E+14;15 rue de Vaugirard 75006 Paris France;+33 1 44 54 19 30;museums
+59 Rivoli;44;32;Art Galleries, Cultural Center;488592299;234566;59 rue de Rivoli 75001 Paris France;;museums
+Hôtel des Invalides;44;85;Landmarks & Historical Buildings, Museums;4,8855E+14;2,31247E+14;Esplanade des Invalides 75007 Paris France;+33 810 11 33 99;museums
+Musée Nissim de Camondo;44;21;Museums;4887885;231286;63 rue de Monceau 75008 Paris France;;museums
+Musée de l'Armée;44;76;Museums;4,88557E+14;2,31263E+13;Hôtel des Invalides Esplanade des Invalides 75007 Paris France;+33 810 11 33 99;museums
+Petit Palais;44;82;Museums, Landmarks & Historical Buildings;48866054;2314589;Avenue Winston Churchill 75008 Paris France;+33 1 53 43 40 00;museums
+Musée d’Art Moderne;43;61;Museums;48864557;2297832;11 avenue du Président Wilson 75116 Paris France;+33 1 53 67 40 00;museums
+Jeu de Paume;43;41;Museums;488658016;2324068;1 place de la Concorde 75008 Paris France;+33 1 40 20 00 77;museums
+Musée Yves Saint Laurent;43;9;Museums;488656;229951;5 avenue Marceau 75116 Paris France;+33 1 44 31 64 00;museums
+Musée Curie;43;6;Museums;48844312;2344891;1 rue Pierre-et-Marie-Curie 75005 Paris France;+33 1 56 24 55 33;museums
+Musée des Arts Décoratifs;43;75;Museums;4,88629E+12;2,3344E+13;107 rue de Rivoli 75001 Paris France;+33 1 44 55 57 50;museums
+Archives Nationales;43;11;Museums;48859982;2357296;60 rue des Francs-Bourgeois 75003 Paris France;+33 1 40 27 60 96;museums
+Musée Bourdelle;43;22;Museums;4,88431E+14;2,31854E+14;16 rue Antoine Bourdelle 75015 Paris France;+33 1 49 54 73 73;museums
+Centre Pompidou;43;322;Museums;4,88608E+14;2,35263E+14;Place Georges Pompidou 75004 Paris France;+33 1 44 78 12 33;museums
+Grand Palais;43;99;Cultural Center, Venues & Event Spaces, Landmarks & Historical Buildings;48866109;2312454;3 avenue du Général Eisenhower 75008 Paris France;+33 1 44 13 17 17;museums
+Le Panthéon;42;139;Landmarks & Historical Buildings;4,88462E+14;2,34607E+13;Place du Panthéon 75005 Paris France;+33 1 44 32 18 01;museums
+Musée National d'Histoire Naturelle;42;59;Museums;4,88443E+14;2,35624E+14;57 rue Cuvier 75005 Paris France;+33 1 40 79 30 00;museums
+Jardin des Plantes;42;84;Botanical Gardens, Parks;4,88453E+14;2,36102E+13;57 rue Cuvier 75005 Paris France;+33 1 40 79 56 01;museums
+Musée Jacquemart-André;42;87;Museums;4887526;231077;158 boulevard Haussmann 75008 Paris France;+33 1 45 62 11 59;museums
+Musée Picasso;42;100;Museums;488597;236264;5 rue de Thorigny 75003 Paris France;+33 1 85 56 00 36;museums
+Les Catacombes de Paris;42;473;Local Flavor, Museums, Landmarks & Historical Buildings;48833838;2332422;1 avenue du Colonel Henri Rol-Tanguy 75014 Paris France;+33 1 43 22 47 63;museums
+Soc Des Amis Institut Du Monde Arabe;42;88;Museums, Cultural Center, Cinema;488493;235601;1 rue Fossés Saint Bernard 75005 Paris France;+33 1 40 51 38 38;museums
+Musée Gustave Moreau;42;26;Museums;4887791;233433;14 rue la Rochefoucauld 75009 Paris France;+33 1 48 74 38 50;museums
+Palais Galliera;42;26;Museums;48865666;2296698;10 avenue Pierre 1er de Serbie 75116 Paris France;+33 1 56 52 86 00;museums
+Musée des Arts et Métiers;41;56;Museums;48866646;2355438;60 rue Réaumur 75003 Paris France;+33 1 53 01 82 00;museums
+Mariage Frères;41;173;Museums, Tea Rooms, Breakfast & Brunch;48857846;2356384;30 rue du Bourg Tibourg 75004 Paris France;+33 1 42 72 28 11;museums
+La Halle Saint-Pierre;41;24;Art Galleries, Museums, Bookstores;4888483;23443;2 rue Ronsard 75018 Paris France;+33 1 42 58 72 89;museums
+Musée Cognacq-Jay;41;16;Museums;488581999;236146;8 rue Elzévir 75003 Paris France;+33 1 40 27 07 21;museums
+Fondation Cartier pour l'Art Contemporain;41;53;Museums;4883742;233128;261 bd Raspail 75014 Paris France;+33 1 42 18 56 50;museums
+Cité des Sciences et de l'Industrie;40;122;Museums;48895602;2387897;30 avenue Corentin Cariou 75019 Paris France;+33 1 40 05 82 00;museums
+Musée Carnavalet;40;89;Museums;4,88573E+14;2,36256E+14;16 rue des Francs-Bourgeois 75003 Paris France;+33 1 44 59 58 58;museums
+Musée du Parfum Fragonard;40;54;Museums, Perfume;4,88714E+13;2,3302E+12;9 rue Scribe 75009 Paris France;+33 1 47 42 04 56;museums
+Musée de la Chasse et de la Nature;40;32;Museums;48861424;2358721;62 rue des Archives 75003 Paris France;+33 1 53 01 92 40;museums
+Musée des Vampires et Monstres de l'Imaginaire;50;1;Museums;488755778;24143559;14 rue Jules David 93260 Les Lilas France;+33 1 43 62 80 76;museums
+Rex Studios;50;5;Museums;48870563;2347706;1 boulevard Poissonnière 75002 Paris France;+33 1 45 08 93 58;museums
+Paris Charms & Secrets;50;45;Historical Tours, Bike tours;488668518;233202;52 place du Marché Saint-Honoré 75001 Paris France;+33 1 40 29 00 00;museums
+Paris To Versailles Private Tours;50;22;Travel Services, Historical Tours, Art Tours;4880742;213241;25 rue du marechal Foch 78000 Versailles France;+33 6 47 50 81 53;museums
+Meet the Locals in France;50;13;Historical Tours, Food Tours, Walking Tours;488645669;23338196;7 rue d'Argenteuil 75001 Paris France;+33 6 80 76 85 47;museums
+Musée Châteaux Malmaison;49;7;Museums;488743399;217338;1 B avenue Impératrice Joséphine 92500 Rueil Malmaison France;+33 9 66 03 19 14;museums
+Les Jardins du Palais Royal;47;46;Parks, Landmarks & Historical Buildings;48864147;2336372;6 rue de Montpensier 75001 Paris France;+33 1 42 96 13 32;museums
+Louvre Pyramid;46;200;Landmarks & Historical Buildings;4886102;2335858;Cour Napoléon 75001 Paris France;+33 1 40 20 53 17;museums
+Musée Albert Kahn;46;53;Botanical Gardens, Museums, Parks;4884136;222748;14 rue du Port 92100 Boulogne-billancourt France;+33 1 55 19 28 00;museums
+Arc de Triomphe du Carrousel;46;43;Landmarks & Historical Buildings;4,88617E+14;2,33291E+14;Place du Carrousel 75001 Paris France;;museums
+Le Pont Neuf;45;78;Landmarks & Historical Buildings;4,88571E+14;2,34135E+14;75001 Paris France;;museums
+My Private Paris;45;8;Historical Tours, Art Tours, Walking Tours;;;Paris France;+33 7 68 80 06 84;museums
+La Seine - Paris;45;51;Landmarks & Historical Buildings;4,88634E+14;2,33371E+14;75001 Paris France;;museums
+Les Caves du Louvre;45;49;Wine Tasting Room, Beer, Wine & Spirits;4886092;234259;52 rue de l'Arbre Sec 75001 Paris France;+33 1 40 28 13 11;museums
+Musée de l'Air et de l'Espace;44;27;Museums;4894659;2434617;3 esplanade de l'Air et de l'Espace 93350 Le Bourget France;+33 1 49 92 70 00;museums
+Hôtel de Ville de Paris;43;65;Town Hall;48856483;2352413;Place de l'Hôtel de Ville 75004 Paris France;+33 1 42 76 40 40;museums
+Paris Muse;43;11;Walking Tours;4,88634E+14;2,33371E+14;75001 Paris France;+33 6 73 77 33 52;museums
+Maison Européenne De La Photographie;43;48;Museums;488549;235912;5/7 rue de Fourcy 75004 Paris France;+33 1 44 78 75 00;museums
+Espace Japon;45;4;Museums, Cultural Center;4887245;235842;12 rue de Nancy 75010 Paris France;+33 1 47 00 11 33;museums
+Fondation Le Corbusier;42;5;Museums;4885187;226539;8 Square du Docteur Blanche 75016 Paris France;+33 1 42 88 41 53;museums
+Automobile Club De France;47;3;Social Clubs;4886554;232106;6 Place De La Concorde 75008 PARIS France;+33 1 43 12 43 12;museums
+Atelier Brancusi;41;7;Museums;4,88614E+14;2,35202E+14;55 rue Rambuteau 75004 Paris France;+33 1 44 78 12 33;museums
+Musée Maillol;41;23;Museums;4885479;2324935;61 rue de Grenelle 75007 Paris France;+33 1 42 22 59 58;museums
+Bibliothèque Nationale de France;40;16;Libraries;4,88678E+14;2,33808E+14;58 rue Richelieu 75002 Paris France;+33 1 53 79 37 29;museums
+Fondation Pierre Bergé - Yves Saint-Laurent;40;9;Museums;48865602;22992643;3 rue Léonce Reynaud 75016 Paris France;+33 1 44 31 64 00;museums
+Stravinsky Fountain;50;1;Museums;4,88605E+14;2,34587E+14;Place Stravinsky 75004 Paris France;;museums
+Musée en Herbe;50;1;Museums;4886011;234215;23 rue de l'Arbre Sec 75001 Paris France;+33 1 40 67 97 66;museums
+Mariage Frères;40;41;Coffee & Tea, Tea Rooms, Museums;4,88774E+13;2,30021E+13;260 rue du Faubourg Saint-Honoré 75008 Paris France;+33 1 46 22 18 54;museums
+Espace Lafayette- Drouot;50;1;Art Galleries;48874589;23417239;44 rue du Faubourg Montmartre 75009 Paris France;+33 1 82 83 28 55;museums
+Galerie de Paléontologie - Jardin des Plantes;50;1;Museums;4884329;236393;2 rue Buffon 75005 Paris France;+33 1 40 79 56 01;museums
+Galerie Louis Vuitton;50;1;Museums;4,89139E+14;2,28574E+14;16 rue Louis Vuitton 92600 Asnières-sur-Seine France;+33 9 77 40 40 77;museums
+Monnaie de Paris;40;10;Museums, Public Services & Government, Arts & Crafts;48856674;2339049;11 quai de Conti 75006 Paris France;+33 1 40 46 57 57;museums
+Musée de la Vie Romantique;40;54;Museums;488808999;23332799;16 rue Chaptal 75009 Paris France;+33 1 55 31 95 67;museums
+Espace Dali;40;69;Museums;488865;23398;11 rue Poulbot 75018 Paris France;+33 1 42 64 40 10;museums
+Cinémathèque Française;40;43;Cinema, Museums, Art Galleries;4883724;2382529;51 rue de Bercy 75012 Paris France;+33 1 71 19 33 33;museums
+Musée de Cluny - Musée National du Moyen Âge;40;62;Museums;4,88505E+14;2,34408E+14;28 rue du Sommerard 75005 Paris France;+33 1 53 73 78 00;museums
+Fondation Louis Vuitton;39;104;Art Galleries;4,88764E+14;2,26346E+14;8 avenue du Mahatma Gandhi 75116 Paris France;+33 1 40 69 96 00;museums
+Musée du Quai Branly - Jacques Chirac;39;156;Museums;488614365;22976313;37 quai Branly 75007 Paris France;+33 1 56 61 70 00;museums
+Hôtel de la Marine;39;7;Museums, Landmarks & Historical Buildings;48866741;2322943;2 place de la Concorde 75008 Paris France;+33 1 53 42 87 40;museums
+Musee de la Poupee;39;14;Museums;488616545;23544195;Impasse Berthaud 75003 Paris France;+33 1 42 72 73 11;museums
+Palais de Justice;39;14;Landmarks & Historical Buildings;4885567;234592;4 boulevard du Palais 75001 Paris France;;museums
+Grande Arche de la Défense;39;61;Landmarks & Historical Buildings;48892697;2235979;1 parvis de la Défense 92400 Paris France;;museums
+Musée d'Histoire de la Médecine;43;3;Museums;48850883;2341169;12 Rue Ecole de Médecine 75006 Paris France;+33 1 40 46 16 93;museums
+Musée Édith Piaf;38;6;Museums;488661;238166;5 rue Crespin-du-Gast 75011 Paris France;+33 1 43 55 52 72;museums
+Musée du Luxembourg;38;15;Landmarks & Historical Buildings, Museums;4,88484E+14;2,33403E+13;19 rue Vaugirard 75006 Paris France;+33 1 40 13 62 00;museums
+Grande Galerie de l'Évolution;40;4;Museums;48841879;235638;57 rue Cuvier Jardin des Plantes 75005 Paris France;+33 1 40 79 56 01;museums
+Cité de l'Architecture et du Patrimoine;45;2;Museums;488624099;2282;1 place du Trocadero 75016 Paris France;+33 1 58 51 52 00;museums
+Musée d' Art et d'Histoire du Judaisme;37;11;Museums;4886089;235562;71 rue Temple 75003 Paris France;+33 1 53 01 86 53;museums
+Musée de la Conciergerie;37;76;Museums, Landmarks & Historical Buildings;48856246;2345798;2 bd du Palais 75001 Paris France;+33 1 53 40 60 80;museums
+Cité de l'Architecture et du Patrimoine;37;27;Museums;488629064;22882512;1 place du Trocadéro et du 11 novembre 75016 Paris France;+33 1 58 51 52 00;museums
+La maison de Victor Hugo;37;45;Landmarks & Historical Buildings;4,88548E+13;2,36629E+13;6 place des Vosges 75004 Paris France;+33 1 42 72 10 16;museums
+Tombeau de Napoléon;48;12;Landmarks & Historical Buildings;4,88551E+14;2,31254E+14;129 rue de Grenelle 75007 Paris France;;landmarks
+Quartier Latin;47;9;Landmarks & Historical Buildings;48848568;2342319;Place de la Sorbonne 75005 Paris France;;landmarks
+Les Jardins du Palais Royal;47;46;Parks, Landmarks & Historical Buildings;48864147;2336372;6 rue de Montpensier 75001 Paris France;+33 1 42 96 13 32;landmarks
+Louvre Pyramid;46;200;Landmarks & Historical Buildings;4886102;2335858;Cour Napoléon 75001 Paris France;+33 1 40 20 53 17;landmarks
+Fat Tire Tours;46;265;Bike tours;48852099;2295222;24 rue Edgar Faure 75015 Paris France;+33 1 82 88 80 96;landmarks
+Île de la Cité;46;62;Landmarks & Historical Buildings;48855169;2346676;75004 Paris France;;landmarks
+Opéra National de Paris - Palais Garnier;46;276;Landmarks & Historical Buildings, Opera & Ballet;488719444;23316667;8 rue Scribe 75009 Paris France;+33 1 71 25 24 23;landmarks
+Arc de Triomphe du Carrousel;46;43;Landmarks & Historical Buildings;4,88617E+14;2,33291E+14;Place du Carrousel 75001 Paris France;;landmarks
+Pont Alexandre III;46;86;Landmarks & Historical Buildings;48863985;2313596;Quai d'Orsay 75007 Paris France;;landmarks
+Rue Montorgueil;46;32;Landmarks & Historical Buildings;4,88656E+14;2,34701E+14;75002 Paris France;;landmarks
+La Tour Eiffel;46;2156;Landmarks & Historical Buildings;48858368;2,29448E+14;5 avenue Anatole France Champ de Mars 75007 Paris France;+33 892 70 12 39;landmarks
+Baccarat;45;11;Home Decor, Museums, Tableware;4886804;22931;11 Place Etats Unis 75116 Paris France;+33 1 40 22 11 00;landmarks
+Fontaine Stravinsky;45;13;Landmarks & Historical Buildings;488599;235198;Place Igor Stravinsky 75004 Paris France;;landmarks
+Le Pont Neuf;45;78;Landmarks & Historical Buildings;4,88571E+14;2,34135E+14;75001 Paris France;;landmarks
+Musée du Louvre;45;2264;Museums;4886206;2334521;Place du Carrousel 75001 Paris France;+33 1 40 20 50 50;landmarks
+Tombe de Jim Morrison;48;4;Landmarks & Historical Buildings;4885871;238976;8 boulevard de Ménilmontant 75020 Paris France;+33 1 55 25 82 10;landmarks
+Île Saint Louis;48;4;Landmarks & Historical Buildings;4,88536E+14;2,35313E+14;Quai de Seine 75004 Paris France;;landmarks
+La Seine - Paris;45;51;Landmarks & Historical Buildings;4,88634E+14;2,33371E+14;75001 Paris France;;landmarks
+Montmartre;45;109;Local Flavor;48886198;2343089;75018 Paris France;;landmarks
+L'Arc de Triomphe;45;708;Landmarks & Historical Buildings;4,88738E+14;2,29502E+14;Place de l'Étoile 75008 Paris France;+33 1 55 37 73 77;landmarks
+Basilique du Sacré-Cœur de Montmartre;45;629;Churches, Landmarks & Historical Buildings;4888709;234343;35 rue du Chevalier de la Barre 75018 Paris France;+33 1 53 41 89 00;landmarks
+Palais du Luxembourg;44;89;Landmarks & Historical Buildings;4,88482E+14;2,33731E+14;15 rue de Vaugirard 75006 Paris France;+33 1 44 54 19 30;landmarks
+Hôtel des Invalides;44;85;Landmarks & Historical Buildings, Museums;4,8855E+14;2,31247E+14;Esplanade des Invalides 75007 Paris France;+33 810 11 33 99;landmarks
+Place Furstenberg;44;7;Landmarks & Historical Buildings;4,88543E+13;2,33571E+13;Rue de Furstenberg 75006 Paris France;;landmarks
+Basilique Sainte Clotilde;44;5;Churches, Landmarks & Historical Buildings;488585281;23199401;23bis rue Las Cases 75007 Paris France;+33 1 44 18 62 60;landmarks
+Square Georges Cain;44;5;Landmarks & Historical Buildings;48861489;2362513;75003 Paris France;;landmarks
+Petit Palais;44;82;Museums, Landmarks & Historical Buildings;48866054;2314589;Avenue Winston Churchill 75008 Paris France;+33 1 53 43 40 00;landmarks
+Place Dauphine;44;20;Landmarks & Historical Buildings;4885634;234303;Place Dauphine 75001 Paris France;;landmarks
+Montmartre Cemetery;43;43;Landmarks & Historical Buildings, Funeral Services & Cemeteries;48887906;2329883;20 avenue Rachel 75018 Paris France;+33 1 53 42 36 30;landmarks
+Hôtel de Ville de Paris;43;65;Town Hall;48856483;2352413;Place de l'Hôtel de Ville 75004 Paris France;+33 1 42 76 40 40;landmarks
+Le Pont des Arts;43;141;Landmarks & Historical Buildings;4885886;233781;Pont des Arts 75001 Paris France;;landmarks
+Galerie Vivienne;43;23;Landmarks & Historical Buildings, Shopping Centers;4886621;233947;4 rue des Petits-champs 75002 Paris France;;landmarks
+Grand Palais;43;99;Cultural Center, Venues & Event Spaces, Landmarks & Historical Buildings;48866109;2312454;3 avenue du Général Eisenhower 75008 Paris France;+33 1 44 13 17 17;landmarks
+Passage des Princes;45;4;Landmarks & Historical Buildings, Toy Stores;488712;233968;97 Rue Richelieu 75002 Paris France;+33 1 42 61 58 27;landmarks
+Cimetière du Montparnasse;42;46;Funeral Services & Cemeteries, Landmarks & Historical Buildings;48837924;2327622;3 boulevard Edgar Quinet 75014 Paris France;+33 1 44 10 86 50;landmarks
+Promenade Plantée;42;55;Landmarks & Historical Buildings, Parks;4,88411E+13;2,39658E+14;Avenue Daumesnil/Porte de Saint Mandé/Bois de Vincennes 75012 Paris France;;landmarks
+Le Panthéon;42;139;Landmarks & Historical Buildings;4,88462E+14;2,34607E+13;Place du Panthéon 75005 Paris France;+33 1 44 32 18 01;landmarks
+Statue de Jeanne d'Arc;42;9;Landmarks & Historical Buildings;4886379;233195;Place des Pyramides 75001 Paris France;;landmarks
+College des Bernardins;42;5;Landmarks & Historical Buildings, Venues & Event Spaces;488489099;23523299;20 rue de Poissy 75005 Paris France;+33 1 53 10 74 44;landmarks
+Église Saint-Séverin;42;11;Landmarks & Historical Buildings, Churches;488518199;234506;3 rue des Prêtres-Saint-Séverin 75005 Paris France;+33 1 42 34 93 50;landmarks
+Les Catacombes de Paris;42;473;Local Flavor, Museums, Landmarks & Historical Buildings;48833838;2332422;1 avenue du Colonel Henri Rol-Tanguy 75014 Paris France;+33 1 43 22 47 63;landmarks
+Place de La Sorbonne;41;10;Landmarks & Historical Buildings, Public Plazas;4,88486E+14;2,34249E+14;75005 Paris France;;landmarks
+Église de la Madeleine;41;41;Landmarks & Historical Buildings, Churches;4,887E+14;2,32446E+14;Place de la Madeleine 75008 Paris France;+33 1 42 65 06 01;landmarks
+Statue of Liberty;41;42;Local Flavor;48850019;2279688;Pont de Grenelle Île aux Cygnes 75015 Paris France;;landmarks
+Passage Verdeau;41;11;Landmarks & Historical Buildings;4887313;234215;6 rue de la Grange-Batelière 75009 Paris France;;landmarks
+Butte aux Cailles;40;11;Landmarks & Historical Buildings;48827747;235023;Rue de la Butte aux Cailles 75013 Paris France;;landmarks
+cour de rohan;50;1;Landmarks & Historical Buildings, Hotels & Travel;488526244;23401721;rue du jardinet 75006 Paris France;;landmarks
+Base Martin De Vivies;50;1;Landmarks & Historical Buildings;477963295;-20028999;Iles St Paul Et Amsterdam Terres Australes et Antarctiques Françaises Paris France;;landmarks
+Montparnasse Tower - Observation Deck;40;184;Landmarks & Historical Buildings, Observatories;4,88421E+14;2,32199E+14;33 avenue du Maine 75015 Paris France;+33 1 45 38 52 56;landmarks
+Passage du Grand Cerf;39;17;Landmarks & Historical Buildings;4,88647E+13;2,35009E+13;145 rue Saint Denis 75002 Paris France;;landmarks
+Discover Walks;48;40;Walking Tours;4886568;233643;1 rue Thérèse 75001 Paris France;+33 6 95 38 88 49;landmarks
+Notre Dame de la Paix;47;44;;4886374;234472;19 Rue Jour 75001 Paris France;+33 1 45 08 57 66;landmarks
+The Eiffel Tower Romance;47;19;Arts & Entertainment;48856614;23522219;Paris France;+33 1 48 58 37 12;landmarks
+Pont de Bir-Hakeim;43;18;Hotels & Travel, Landmarks & Historical Buildings;488555603;22878301;Pont de Bir-Hakeim Paris France;;landmarks
+Centre Pompidou;43;322;Museums;4,88608E+14;2,35263E+14;Place Georges Pompidou 75004 Paris France;+33 1 44 78 12 33;landmarks
+La Butte Bergeyre;45;4;Landmarks & Historical Buildings, Local Flavor;4887778;23758499;Rue Georges Lardennois Rue Rémy de Gourmont 75019 Paris France;;landmarks
+Passage Molière;50;2;Landmarks & Historical Buildings;4886217;235184;157 rue Saint-Martin 82 rue Quincampoix 75003 Paris France;;landmarks
+Jardin des Tuileries;42;245;Parks;48863396;2327307;113 rue de Rivoli 75001 Paris France;+33 1 40 20 90 43;landmarks
+Canal Saint-Martin;42;55;Landmarks & Historical Buildings, Fishing;4,88735E+13;2,36348E+14;Quai de Jammapes 75010 Paris France;+33 1 42 39 15 00;landmarks
+Caserne de Pompiers - Sévigné;42;5;Landmarks & Historical Buildings;488555599;236193;7-9 rue de Sévigné 75004 Paris France;+33 1 44 61 50 28;landmarks
+Mémorial des Martyrs de la Déportation;41;10;Landmarks & Historical Buildings;4885485;234801;Allée des Justes de France Ile de la Cité 75004 Paris France;;landmarks
+La Butte Montmartre;40;27;Museums, Landmarks & Historical Buildings;48886251;2343092;Rue Cortot 75018 Paris France;;landmarks
+La Tour Saint-Jacques;40;18;Landmarks & Historical Buildings;488578098;23498816;Square de la Tour Saint-Jacques 75004 Paris France;;landmarks
+Pont Saint-Michel;50;1;Landmarks & Historical Buildings;48854907;2344606;Pont Saint-Michel 75004 Paris France;;landmarks
+Passage de la Sorcière;50;1;Landmarks & Historical Buildings;4,8888E+14;2,33521E+13;entre le haut de la rue Lepic et de l'avenue Junot 75018 Paris France;;landmarks
+Les Frigos;40;8;Cultural Center, Landmarks & Historical Buildings;4883131;237949;19 rue des Frigos 75013 Paris France;+33 1 44 24 03 40;landmarks
+Base Port Aux Francais;50;1;Landmarks & Historical Buildings;487013206;-38022101;ile kerguelen Territoires D'Outre Mer Paris France;;landmarks
+Géant d'Issoire;50;1;Landmarks & Historical Buildings;4882826;233304;Rue de la Tombe Issoire 75014 Paris France;;landmarks
+Kilometre Zero;50;1;Landmarks & Historical Buildings;4,88534E+14;2,34879E+14;6 parvis Notre-Dame Place Jean-Paul II 75004 Paris France;;landmarks
+Maison de Serge Gainsbourg;40;5;Landmarks & Historical Buildings;4885715;233175;5 bis rue de Verneuil 75007 Paris France;;landmarks
+Maison À L'enseigne Du Faucheur;50;1;Landmarks & Historical Buildings;4885582;235679;11 Rue François Miron 75004 Paris France;;landmarks
+Vedettes du Pont Neuf;40;97;Boat Charters, Boat Tours;488575;234;1 square du Vert Galant 75001 Paris France;+33 1 46 33 98 38;landmarks
+Palais de la Découverte;40;41;Museums, Landmarks & Historical Buildings;48866204;2310822;Avenue Franklin Delano Roosevelt 75008 Paris France;+33 1 56 43 20 20;landmarks
+Musée de Cluny - Musée National du Moyen Âge;40;62;Museums;4,88505E+14;2,34408E+14;28 rue du Sommerard 75005 Paris France;+33 1 53 73 78 00;landmarks
+American Church In Paris;39;11;Landmarks & Historical Buildings, Churches;4886226;23066;65 quai d'Orsay 75007 Paris France;+33 1 45 56 09 50;landmarks
+Hôtel de la Marine;39;7;Museums, Landmarks & Historical Buildings;48866741;2322943;2 place de la Concorde 75008 Paris France;+33 1 53 42 87 40;landmarks
+Palais de Justice;39;14;Landmarks & Historical Buildings;4885567;234592;4 boulevard du Palais 75001 Paris France;;landmarks
+Grande Arche de la Défense;39;61;Landmarks & Historical Buildings;48892697;2235979;1 parvis de la Défense 92400 Paris France;;landmarks
+Avenue des Champs-Élysées;39;297;Local Flavor;4,88693E+13;2,30884E+14;75008 Paris France;;landmarks
+Palais-Royal;38;44;Landmarks & Historical Buildings;4886251;2337334;2 Place Palais Royal 75001 Paris France;+33 9 64 16 23 64;landmarks
+Le Quartier Mouzaïa;43;3;Landmarks & Historical Buildings;488803;239439;Rue de la Mouzaia 75019 Paris France;;landmarks
+Paris Foot Walks;43;3;Walking Tours;4888395;238563;75019 Paris France;;landmarks
+Rue Montorgeuil;38;11;Landmarks & Historical Buildings;48865129;23469032;Rue Montorgeuil 75002 Paris France;;landmarks
+Musée du Luxembourg;38;15;Landmarks & Historical Buildings, Museums;4,88484E+14;2,33403E+13;19 rue Vaugirard 75006 Paris France;+33 1 40 13 62 00;landmarks
+Ile Saint-Louis;38;13;Landmarks & Historical Buildings;48850881;2355688;Quai de la Tournelle 75004 Paris France;;landmarks
+La Cité Fleurie;45;2;Landmarks & Historical Buildings;4,88345E+12;2,3432E+13;65 bd Arago 75013 Paris France;;landmarks
+????? ??????;45;2;Landmarks & Historical Buildings;4,88874E+14;2,33614E+13;83 rue Lepic 75018 Paris France;;landmarks
+Sénat;45;2;Landmarks & Historical Buildings;4884919;233645;15 rue Vaugirard Palais du Luxembourg 75006 Paris France;+33 1 45 44 00 11;landmarks
+Le Grand Colbert;36;291;French, Landmarks & Historical Buildings;4886707;233907;2 rue Vivienne 75002 Paris France;+33 1 42 86 87 88;landmarks
+Jardin du Sacré-Coeur;36;10;Botanical Gardens, Landmarks & Historical Buildings;4,88874E+14;2,34229E+14;Sacré coeur 75018 Paris France;;landmarks
+Place des Victoires;35;11;Landmarks & Historical Buildings;48865809;2341174;75001 Paris France;;landmarks
+Moulin Rouge;35;487;Cabaret;48884317;2332252;82 boulevard de Clichy 75018 Paris France;+33 1 53 09 82 82;landmarks
+Port de la Bourdonnais;40;3;Landmarks & Historical Buildings;4886142;22972;Quai Branly 75007 Paris France;;landmarks
+Palais de Chaillot;34;5;Landmarks & Historical Buildings;48861595;2289813;7 Avenue Albert de Mun Entrée 75016 Paris France;;landmarks
+Eglise Saint-Ephrem;34;5;Landmarks & Historical Buildings, Churches;48848356;234756;17 rue des Carmes 75005 Paris France;+33 1 42 50 96 18;landmarks
+Le Musée des Égouts de Paris;33;23;Tours, Landmarks & Historical Buildings, Museums;48862641;23026;Pont de l'Alma rive gauche Face au 93 quai d'Orsay 75007 Paris France;+33 1 53 68 27 81;landmarks
+La tombe du soldat inconnu;33;7;Landmarks & Historical Buildings;4887335;229439;Place de l'Etoile 75017 Paris France;;landmarks
+Le Passe-Muraille;40;2;Landmarks & Historical Buildings;48887552;2338066;Place Marcel Ayme 75018 Paris France;;landmarks
+Pont d'Iéna;40;2;Landmarks & Historical Buildings;488601;229169;Pont d'Iéna 75116 Paris France;;landmarks
+Villa Léandre;40;2;Landmarks & Historical Buildings;4888837;233502;Villa Léandre 75018 Paris France;;landmarks
+Hotel de Fleurie;50;5;Hotels;488523799;233752;32 rue Grégoire de Tours 75006 Paris France;+33 1 53 73 70 00;hotels
+Le Roch;50;9;Hotels;4886618;233287;28 rue Saint-Roch 75001 Paris France;+33 1 70 83 00 00;hotels
+Hotel Dupond-Smith;50;6;Hotels;4885789186;235712349;2 rue des Guillemites 75004 Paris France;+33 1 42 76 88 99;hotels
+Hôtel Monge;50;23;Hotels;48845064;2352403;55 rue Monge 75005 Paris France;+33 1 43 54 55 55;hotels
+Jules & Jim;49;24;Hotels;4886359;235737;11 rue des Gravilliers 75003 Paris France;+33 1 44 54 13 13;hotels
+Hôtel du Jeu de Paume;49;7;Hotels;4885198;235606;54 Rue St Louis En L'ile 75004 Paris France;+33 1 43 26 14 18;hotels
+Hotel de Jobo;48;13;Hotels;4,88554E+13;2,36227E+14;10 rue d'Ormesson 75004 Paris France;+33 1 48 04 70 48;hotels
+Hôtel Plaza Tour Eiffel;48;12;Hotels;4886451;22823082;32 rue Greuze 75116 Paris France;+33 1 47 27 10 00;hotels
+La Maison Favart;48;23;Hotels;48870819;2337311;5 rue de Marivaux 75002 Paris France;+33 1 42 97 59 83;hotels
+Hôtel Signature;48;11;Hotels;48852194;2326065;5 rue Chomel 75007 Paris France;+33 1 45 48 35 53;hotels
+Hotel Madison;48;19;Hotels & Travel;4885325;23344299;143 boulevard Saint-Germain 75006 Paris France;+33 1 40 51 60 00;hotels
+Villa Saxe Eiffel;48;9;Hotels;48849676;23097107;9 Villa de Saxe 75007 Paris France;+33 1 47 83 86 90;hotels
+Relais Christine;48;26;Hotels;488543934;23401563;3 rue Christine 75006 Paris 06 France;+33 1 40 51 60 80;hotels
+Caron de Beaumarchais;48;28;Hotels;4885646;2356817;12 rue Vieille du Temple 75004 Paris France;+33 1 42 72 34 12;hotels
+Hotel Henri IV Rive Gauche;48;8;Hotels;4885194;234615;9-11 rue St Jacques 75005 Paris France;+33 1 46 33 20 20;hotels
+Hôtel Square Louvois;48;16;Hotels;48868451;2336911;12 rue de Louvois 75002 Paris France;+33 1 86 95 02 02;hotels
+Hôtel d'Aubusson;47;26;Hotels;48854739;2339528;33 rue Dauphine 75006 Paris France;+33 1 43 29 43 43;hotels
+Grand Hôtel du Palais Royal;47;25;Hotels, Restaurants, Beauty & Spas;488631096;233779;4 rue de Valois 75001 Paris France;+33 1 42 96 15 35;hotels
+La Chambre du Marais;47;14;Hotels;48863619;2360799;87 rue des Archives 75003 Paris France;+33 1 44 78 08 00;hotels
+Hôtel B Montmartre;47;22;Hotels;48883679;23257949;6 rue Lécluse 75017 Paris France;+33 1 42 93 35 77;hotels
+Hotel de Londres Eiffel;47;27;Hotels;4885811;230145;1 Rue Augereau 75007 Paris France;+33 1 45 51 63 02;hotels
+La Villa Saint Germain des Prés;47;18;Hotels;4885536;2334105;29 rue Jacob 75006 Paris France;+33 1 43 26 60 00;hotels
+Hôtel Atlantic;47;9;Hotels;4887812;232635;Gare Saint-Lazare 44 rue de Londres 75008 Paris France;+33 1 43 87 45 40;hotels
+Hotel Providence;47;20;Hotels;4886928;235657;90 rue René Boulanger 75010 Paris France;+33 1 46 34 34 04;hotels
+Le Relais du Louvre;46;11;Hotels;48859234;2341002;19 rue des Prêtres-Saint-Germain 75001 Paris France;+33 1 40 41 96 42;hotels
+Hôtel des Grands Boulevards;46;8;Hotels;4887101;234493;17 boulevard Poissonnière 75002 Paris France;+33 1 85 73 33 33;hotels
+Hôtel Relais Saint Germain;46;18;Hotels;48851896;2338944;9 carrefour de l'Odéon 75006 Paris France;+33 1 44 27 07 97;hotels
+Hotel Diana;46;12;Hotels;4,88498E+14;2,34524E+14;73 rue St Jacques 75005 Paris France;+33 1 43 54 92 55;hotels
+Maison Breguet;46;12;Hotels;48856497;2372022;8 rue Bréguet 75011 Paris France;+33 1 58 30 32 31;hotels
+Hôtel le Régent;46;7;Hotels;4,88538E+13;2,33869E+14;61 rue Dauphine 75006 Paris France;+33 1 46 34 59 80;hotels
+Hôtel de Varenne;46;21;Hotels;488570832;23173252;44 rue Bourgogne 75007 Paris France;+33 1 45 51 45 55;hotels
+Hôtel de Crillon;45;22;Hotels;4,88673E+14;2,32111E+14;10 place de la Concorde 75008 Paris France;+33 1 44 71 15 00;hotels
+Hôtel Plaza Athénée;45;60;Hotels;48866253;230411;25 avenue Montaigne 75008 Paris France;+33 1 53 67 66 65;hotels
+Hôtel Monte Cristo;50;3;Hotels;4883797;23493;20-22 rue Pascal 75005 Paris France;+33 1 40 09 09 09;hotels
+Les Jardins de Mademoiselle;50;3;Hotels;4884364;229472;15 rue Mademoiselle 75015 Paris France;+33 1 56 23 91 00;hotels
+Hôtel COQ;45;8;Hotels, Breakfast & Brunch;4883293;235729;15 rue Edouard Manet 75013 Paris France;+33 1 45 86 35 99;hotels
+Park Hyatt Paris-Vendome;45;159;Hotels, Venues & Event Spaces;4886881;233058;5 rue de la Paix 75002 Paris France;+33 1 58 71 12 34;hotels
+Four Seasons Hôtel George V;45;130;Hotels;48868864;2300683;31 avenue George V 75008 Paris France;+33 1 49 52 70 00;hotels
+Hyatt Paris Madeleine;45;50;Hotels, Venues & Event Spaces;48872888;2321526;24 boulevard Malesherbes 75008 Paris France;+33 1 55 27 12 34;hotels
+Shangri-La Hotel, Paris;45;60;Hotels, Restaurants;488634592;22936984;10 avenue d'Iéna 75116 Paris France;+33 1 53 67 19 98;hotels
+Hôtel Le 123 Sebastopol;44;38;Hotels;488676984;2352763;123 bd Sebastopol 75002 Paris France;+33 1 40 39 61 23;hotels
+Hôtel Thérèse;44;16;Hotels;48865897;2336054;5/7 rue Thérèse 75001 Paris France;+33 1 42 96 10 01;hotels
+L'hôtel des Arts Montmartre;44;28;Hotels;488862;233524;5 rue Tholozé 75018 Paris France;+33 1 46 06 30 52;hotels
+Hotel Des Grandes Ecoles;44;22;Hotels;4884507;234981;75 Rue Card Lemoine 75005 Paris France;+33 1 43 26 79 23;hotels
+Les Bains Paris;44;20;Hotels;488639183;2352;7 rue du Bourg-l'Abbé 75003 Paris France;+33 1 42 77 07 07;hotels
+Hôtel Littré;44;31;Hotels;48846284;2323937;9 rue Littré 75006 Paris France;+33 1 53 63 07 07;hotels
+Millésime Hotel;44;13;Hotels;4885508;233506;15 rue Jacob 75006 Paris France;+33 1 44 07 97 97;hotels
+Hôtel du Pas de Calais;44;8;Hotels;48854;233013;59 Rue Saints Pères 75006 Paris France;+33 1 45 48 78 74;hotels
+Hôtel de la Bretonnerie;44;11;Hotels;488582602;235604;22 rue Sainte Croix de la Bretonnerie 75004 Paris 04 France;+33 1 42 76 91 37;hotels
+Hôtel Abbatial;44;22;Hotels;4884973;235077;44 boulevard Saint-Germain 75005 Paris France;+33 1 46 34 02 12;hotels
+Hôtel Marignan Champs Elysées;49;10;Hotels;48868535;2306546;12 rue de Marignan 75008 Paris France;+33 1 40 76 34 56;hotels
+Hotel Seven Paris;47;15;Hotels;4883898;234566;20 rue Berthollet 75005 Paris France;+33 1 43 31 47 52;hotels
+Maison Souquet;47;23;Hotels;4,88835E+14;2,33143E+14;10 rue de Bruxelles 75009 Paris France;+33 1 48 78 55 55;hotels
+Hôtel Parc Saint-Séverin;46;11;Hotels;48851852;2344824;22 rue de la Parcheminerie 75005 Paris France;+33 1 43 54 32 17;hotels
+Hôtel Saint-Paul Rive Gauche;46;18;Hotels;488496;234011;43 Rue Monsieur Le Prince 75006 Paris France;+33 1 43 26 98 64;hotels
+Hotel Da Vinci;45;16;Hotels;4885658358;2331847;25 rue de Saints Peres 75006 Paris France;+33 1 55 35 41 88;hotels
+Môm'Art;48;4;Hotels;488837029;2342654;42 rue d'Orsel 75018 Paris France;+33 1 82 52 26 26;hotels
+Hôtel Cambon;45;8;Hotels;4886667;232558;5 Rue Cambon 75001 Paris France;+33 1 42 61 55 77;hotels
+Courtyard by Marriott Paris Porte de Versailles;45;6;Hotels;48829732;22841318;5 rue Ernest Renan 92130 Issy-les-Moulineaux France;+33 1 85 74 64 54;hotels
+Le Bristol Paris;45;41;Hotels;48871695;2314796;112 rue du Faubourg Saint-Honoré 75008 Paris France;+33 1 53 43 43 00;hotels
+Hôtel Scribe Paris;45;29;Hotels;488706093;232985;1 rue Scribe 75009 75009 Paris France;+33 1 44 71 24 24;hotels
+The Peninsula Paris;45;48;Hotels;4887101;229332;19 avenue Kléber 75116 Paris France;+33 1 58 12 28 88;hotels
+Le Cinq Codet;45;21;Hotels;4885499;230835;5 rue Louis Codet 75007 Paris France;+33 1 53 85 15 60;hotels
+Hotel Josephine;45;13;Hotels;4888216;23317919;67 rue Blanche 75009 Paris France;+33 1 55 31 90 75;hotels
+Hôtel Niepce Paris Curio Collection by Hilton;45;20;Hotels;4883486;231818;4 rue Niépce 75014 Paris France;+33 1 83 75 69 20;hotels
+Hôtel Golden Tulip Opéra de Noailles;44;7;Hotels;48869608;23346688;9 Rue de la Michodière 75002 Paris France;+33 1 47 42 92 90;hotels
+Mandarin Oriental;44;38;Hotels;4886707;232723;251 rue Saint-Honoré 75001 Paris France;+33 1 70 98 78 88;hotels
+Hôtel de Seine;44;5;Hotels;4885438;233679;52 rue Seine 75006 Paris France;+33 1 46 34 22 80;hotels
+Hôtel Duo;44;23;Hotels;4885796;2353;11 rue du Temple 75004 Paris France;+33 1 42 72 72 22;hotels
+Lyric Hotel;44;16;Hotels;488690147;23367811;2 rue de Gramont 75002 Paris France;+33 1 83 73 58 00;hotels
+L'Hôtel;43;29;Hotels;48856233;2335175;13 rue des Beaux Arts 75006 Paris France;+33 1 44 41 99 00;hotels
+Renaissance Paris Republique Hotel;43;62;Hotels, Venues & Event Spaces;48868514;2,36091E+14;40 rue René Boulanger 75010 Paris France;+33 1 71 18 20 95;hotels
+Hôtel Regina Louvre Paris;43;42;Hotels;4886381;233248;2 place des Pyramides 75001 Paris France;+33 1 42 60 31 10;hotels
+Le Meurice;43;69;Hotels;48865335;2328136;228 rue de Rivoli 75001 Paris France;+33 1 44 58 10 10;hotels
+Hotel Georgette;43;15;Hotels;488629;235336;36 rue de Grenier Saint Lazare 75003 Paris France;+33 1 44 61 10 10;hotels
+Ritz Paris;43;62;Hotels;48868108;2328892;15 place Vendôme 75001 Paris France;+33 1 43 16 30 30;hotels
+Hôtel Indigo Paris - Opera;43;15;Hotels;4,88707E+14;2,32932E+13;2 rue Edouard VII 75009 Paris-9E-Arrondissement France;+33 1 44 80 00 32;hotels
+Hotel Dauphine Saint-Germain;43;19;Hotels;488544792;2339028;36 rue Dauphine 75006 Paris France;+33 1 43 26 74 34;hotels
+Hôtel Britannique;43;28;Hotels;48858274;2346382;20 avenue Victoria 75001 Paris France;+33 1 42 33 74 59;hotels
+Hôtel Waldorf Montparnasse;50;2;Hotels;48842519;2323611;17 rue du Départ 75014 Paris France;+33 1 43 20 64 79;hotels
+Hôtel d'Angleterre;43;8;Hotels;48855808;2333056;44 Rue Jacob 75006 Paris France;+33 1 42 60 34 72;hotels
+Les Tournelles;42;5;Hotels;4885696;236455;30 rue de Turenne 75003 Paris France;+33 1 42 72 73 47;hotels
+La Comtesse;42;28;Hotels;48853865;2307136;29 avenue de Tourville 75007 Paris France;+33 1 45 51 29 29;hotels
+Hôtel Duquesne Eiffel;42;28;Hotels;48852656;2309079;23 avenue Duquesne 75007 Paris France;+33 1 44 42 09 09;hotels
+Hôtel Whistler;42;6;Hotels;488793;235598;36 rue de Saint-Quentin 75010 Paris France;+33 1 53 20 09 09;hotels
+Hôtel St André des Arts;42;12;Hotels;4885356;233901;66 Rue St André Des Arts 75006 Paris France;+33 1 46 34 70 02;hotels
+Le Pavillon de la Reine;41;21;Hotels;48856283;2365985;28 place des Vosges 75003 Paris France;+33 1 40 29 19 19;hotels
+Hôtel d'Orsay;41;14;Hotels;48860385;2323068;93 rue de Lille 75007 Paris France;+33 1 47 05 85 54;hotels
+Maison Astor Paris, Curio Collection by Hilton;41;39;Hotels;488728399;231938;11 rue d'Astorg 75008 Paris France;+33 1 53 05 05 05;hotels
+Hôtel Saint Christophe;41;12;Hotels;4884368;235276;17 Rue Lacépède 75005 Paris France;+33 1 43 31 81 54;hotels
+Hôtel Notre-Dame;41;18;Hotels;48853031;2346574;1 quai Saint-Michel 75005 Paris France;+33 1 43 54 20 43;hotels
+Le Lapin Blanc;40;28;Hotels;4,88492E+14;2,34221E+14;41 boulevard Saint-Michel 75005 Paris France;+33 1 53 10 27 77;hotels
+Hôtel de Sully;50;1;Hotels;4884863;234804;31 rue Ecoles 75005 Paris France;+33 1 40 51 71 88;hotels
+Hôtel des Deux-Iles;40;6;Hotels;4885235;23549699;59 rue Saint-Louis en l'Ile 75004 Paris France;+33 1 43 26 13 35;hotels
+Hotel la Perle;40;13;Hotels;4885213;233366;14 rue des Canettes 75006 Paris France;+33 1 43 29 10 10;hotels
+Hôtel de Lille;43;4;Hotels;48858568;2329914;40 rue de Lille 75007 Paris France;+33 1 42 61 29 09;hotels
+Le Relais des Halles;43;4;Hotels;48863226;23489151;26 rue Pierre Lescot 75001 Paris France;+33 1 44 82 64 00;hotels
+Hôtel de Lutèce;40;10;Hotels;488525479;23548576;65 rue Saint Louis en l'Ile 75004 Paris France;+33 1 43 26 23 52;hotels
+Au Manoir;40;6;Hotels;48853688;23322667;153 bd St-Germain-des-Prés 75006 Paris France;+33 1 42 22 21 65;hotels
+Hôtel Montalembert;40;26;Hotels;4,88568E+14;2,32807E+14;3 rue de Montalembert 75007 Paris France;+33 1 45 49 68 68;hotels
+Hk Vintage;50;5;Used, Vintage & Consignment;4888111;229999;1 rue Théodore de Banville 75017 Paris France;+33 1 40 53 00 34;shopping
+La Maison Ivre;49;20;Linens, Home Decor, Tableware;48855769;2333643;38 rue Jacob 75006 Paris France;+33 1 42 60 01 85;shopping
+Petsochic;48;6;Pet Stores, Accessories;4885553;233993;16 rue Dauphine 75006 Paris France;+33 1 42 03 09 70;shopping
+Anoki;48;21;Accessories;4888417;234205;3 rue Tardieu 75018 Paris France;+33 1 71 37 95 18;shopping
+Yves Saint Laurent;47;27;Men's Clothing, Women's Clothing;4886816;232391;38 Rue Fbg St Honoré 75008 Paris France;+33 1 42 65 74 59;shopping
+Nina Kendosa;47;10;Women's Clothing, Accessories;4885202;235595;43 rue saint-Louis-en-l'île 75004 Paris France;+33 1 43 26 59 86;shopping
+Fauré le Page;47;26;Accessories, Leather Goods;4886756;23263;21 rue Cambon 75001 Paris France;+33 1 49 27 99 36;shopping
+La Tuile à Loup;47;6;Arts & Crafts, Tableware, Home Decor;488403;235119;35 rue Daubenton 75005 Paris France;+33 1 47 07 28 90;shopping
+Les Drapeaux de France;46;5;Hobby Shops, Antiques;488636794;23365937;Place Colette Boutique Noxa 75001 Paris France;+33 1 40 20 00 11;shopping
+78isl;46;9;Accessories, Women's Clothing, Leather Goods;4885258;23546;78 rue Saint-Louis en l'ile 75004 Paris France;+33 1 40 46 06 36;shopping
+Monoprix;46;9;Grocery;4,88707E+14;2,30609E+14;107 rue la Boétie 75008 Paris France;+33 1 53 77 65 65;shopping
+Chez Nana;45;24;Jewelry;4887267;235012;19 rue d'Hauteville 75010 Paris France;+33 1 77 10 11 09;shopping
+& Other Stories;45;13;Fashion;488680191;232406;277 rue Saint-Honoré 75008 Paris France;+33 1 53 32 85 05;shopping
+Galleries Gourmandes;45;6;Grocery;4,88789E+14;2,28255E+14;Palais des Congres Place de la Porte Maillot 75017 Paris France;;shopping
+So We Are;45;13;Accessories, Women's Clothing;488531984;23767498;40 rue de Charonne 75011 Paris France;+33 9 82 37 63 91;shopping
+Ysasu;44;7;Shoe Stores;488854806;23453757;19 rue André del Sarte 75018 Paris France;+33 1 42 52 10 44;shopping
+Sneakersnstuff;44;7;Accessories, Shoe Stores, Women's Clothing;4886757;234584;95 rue Réaumur 75002 Paris France;+33 1 44 82 95 41;shopping
+LIDL;44;5;Grocery, Discount Store;48822964;232776;88-94 boulevard Jourdan 75014 Paris France;;shopping
+Monoprix;44;33;Department Stores;4,88543E+13;2,36333E+13;71 rue Saint-Antoine 75004 Paris France;+33 1 42 74 13 73;shopping
+Monsieur;44;8;Jewelry;4886334;236302;53 rue Charlot 75003 Paris France;+33 1 42 71 12 65;shopping
+Blue Lemon;43;10;Accessories;4,88648E+14;2,34655E+14;54 rue Tiquetonne 75002 Paris France;+33 1 42 33 34 73;shopping
+Allison;43;7;Women's Clothing;4885365;233813;3 rue de Buci 75006 Paris France;;shopping
+Galerie Vivienne;43;23;Landmarks & Historical Buildings, Shopping Centers;4886621;233947;4 rue des Petits-champs 75002 Paris France;;shopping
+Paulie and Me...;50;2;Jewelry, Accessories, Women's Clothing;4,88644E+13;2,34442E+14;68 rue Jean Jacques Rousseau 75001 Paris France;+33 6 85 94 04 34;shopping
+Brocante Sophie Dupont;50;2;Antiques;4888989;23458;49 Rue Ramey 75018 Paris France;+33 1 42 54 69 30;shopping
+Le Petit Prince;50;2;Bookstores, Toy Stores, Baby Gear & Furniture;48853414;2337737;8 rue Grégoire de Tours 75006 Paris France;+33 9 86 46 74 09;shopping
+Topshop;50;2;Women's Clothing;488790183;23379063;Galeries Lafayette Haussmann 40 bd Haussmann 75009 Paris France;+33 1 42 82 34 56;shopping
+Bazartherapy;50;2;Gift Shops, Concept Shops;488705749;23638242;15 rue Beaurepaire 75010 Paris France;+33 1 42 40 10 11;shopping
+Opera Market;45;4;Grocery;4886667;233696;29 rue Petits Champs 75001 Paris France;+33 1 49 26 03 09;shopping
+L'Avenir des Marques;50;2;Outlet Stores;488386497;226034;201 avenue de Versailles 75016 Paris France;;shopping
+H&M;50;2;Women's Clothing, Children's Clothing, Men's Clothing;4887327;233358;1-3 rue Lafayette 75009 Paris France;+33 1 55 31 28 00;shopping
+Aéroville;42;26;Shopping Centers;48991209;2521968;30 rue des Buissons 95700 Roissy-en-France France;+33 1 74 25 75 67;shopping
+Episode;42;26;Used, Vintage & Consignment;4886455;2349;12-16 rue Tiquetonne 75002 Paris France;+33 1 42 61 14 64;shopping
+Matières à Réflexion;42;9;Accessories, Leather Goods, Women's Clothing;4886156;236288;19 rue de Poitou 75003 Paris France;+33 1 42 72 16 31;shopping
+Par'Ici;42;14;Gift Shops, Souvenir Shops;4884332;234947;52 rue Mouffetard 75005 Paris France;+33 1 43 31 79 85;shopping
+Thanx God I'm A V.I.P;42;15;Used, Vintage & Consignment;4886947;236046;12 rue de Lancry 75010 Paris France;+33 1 42 03 02 09;shopping
+Oh Lumière;42;5;Used, Vintage & Consignment;4886476;237718;21 Avenue République 75011 Paris France;+33 1 43 57 51 26;shopping
+Guerrisol;42;5;Used, Vintage & Consignment;4888364;235102;45 boulevard de la Chapelle 75018 Paris France;+33 1 49 95 93 86;shopping
+Les Grands Voisins;47;3;Arts & Entertainment, Shopping Centers, Pop-Up Restaurants;48837212;2334838;74 avenue Denfert-Rochereau 75014 Paris France;+33 7 83 76 21 00;shopping
+Biba Boutique;42;6;Fashion;4885164;232704;18 Rue Sèvres 75007 Paris France;+33 1 42 22 10 14;shopping
+BIS Boutique Solidaire;42;13;Thrift Stores;4886346;236625;7 bd du Temple 75003 Paris France;+33 1 44 78 11 08;shopping
+COS;42;20;Men's Clothing, Women's Clothing, Children's Clothing;4885662;236062;4 rue des Rosiers 75004 Paris France;+33 1 70 70 33 90;shopping
+Sophie Sacs;41;15;Leather Goods;48845512;2325755;149 rue Rennes 75006 Paris France;+33 1 45 48 00 69;shopping
+Christian Louboutin;41;23;Shoe Stores, Cosmetics & Beauty Supply, Leather Goods;488626032;23405779;19 rue Jean-Jacques Rousseau 75001 Paris France;+33 1 44 82 03 88;shopping
+Longchamp;41;13;Leather Goods;4885186;233036;21 rue du Vieux Colombier 75006 Paris France;+33 1 42 22 74 75;shopping
+Marché Couvert Saint-Quentin;40;27;Public Markets;48876701;23548;85bis boulevard de Magenta 75010 Paris France;+33 1 48 85 93 30;shopping
+Tilt Vintage Store;40;10;Used, Vintage & Consignment;488557;235941;8 rue de Rivoli 75004 Paris France;;shopping
+The King of Frip;40;11;Used, Vintage & Consignment;4885655;23569399;33 rue du roi de Sicile 75004 Paris France;+33 1 42 78 33 72;shopping
+Bobart' - Objets et Curiosités;50;1;Concept Shops;488597717;235063;89 rue saint martin 75004 Paris France;+33 1 72 38 19 70;shopping
+La Ressourcerie;50;1;Used, Vintage & Consignment;48866414;23457808;13 rue Léopold Bellan 75002 Paris France;;shopping
+Comme des Garçons Black;46;5;Women's Clothing, Men's Clothing;4886071;23614099;7 Rue du Perche 75003 Paris France;;shopping
+Coup 2 coeur;50;3;Shoe Stores;488525;233657;4 rue Clement 75006 Paris France;+33 1 46 34 00 32;shopping
+Si Tu Veux;50;3;Toy Stores;4886719;233942;68 galerie Vivienne 75002 Paris France;+33 1 42 60 59 97;shopping
+59 Rivoli;44;32;Art Galleries, Cultural Center;488592299;234566;59 rue de Rivoli 75001 Paris France;;shopping
+Diwali;44;7;Accessories, Jewelry;4885197;235629;52 rue Saint Louis en Ile 75004 Paris France;;shopping
+Madeleine & Gustave;44;5;Home Decor, Concept Shops;4887055;236315;19 rue Yves Toudic 75010 Paris France;+33 1 40 38 61 02;shopping
+H&M;50;2;Women's Clothing, Children's Clothing, Men's Clothing;4887327;233358;1-3 rue Lafayette 75009 Paris France;+33 1 55 31 28 00;shopping
+Jacqueline Singh;50;2;Jewelry;488523961;23395536;130 boulevard Saint Germain 75006 Paris France;+33 1 43 26 50 22;shopping
+Monoprix;43;8;Department Stores;4,88582E+13;2,28199E+13;18 rue de Passy 75116 Paris France;+33 1 45 20 17 52;shopping
+Maisons du Monde;50;2;Home Decor;4887144;234235;5 boulevard Montmartre 75009 Paris France;;shopping
+Taher Mardini;50;2;Shoe Stores, Leather Goods;488559113;23596799;14 rue du Roi de Sicile 75004 Paris France;;shopping
+Size-Factory;50;2;Men's Clothing, Plus Size Fashion, Shoe Stores;488281;238054;15 rue Marie-Andrée Lagroua Weill-Hallé 75013 Paris France;+33 9 73 14 54 08;shopping
+Variantes;42;13;Toy Stores;4885334;234212;29 Rue St André Des Arts 75006 Paris France;+33 1 43 26 01 01;shopping
+Pigalle;42;6;Men's Clothing, Women's Clothing;4887962;233706;7 rue Henry Monnier 75009 Paris France;+33 1 48 78 59 74;shopping
+Dante & Maria;47;3;Jewelry;488734852;23644246;3 rue de la Grange aux Belles 75010 Paris 10 France;+33 1 70 22 62 13;shopping
+Monoprix;41;7;Department Stores;4,88695E+14;2,32674E+14;9 boulevard de la Madeleine 75001 Paris France;+33 1 42 86 61 54;shopping
+Centre Commercial les Passages;40;25;Shopping Centers;4883666;2239121;5 rue Tony Garnier 92100 Boulogne-Billancourt France;+33 1 41 31 76 76;shopping
+Monoprix;40;17;Grocery;4886615;236135;164 rue du Temple 75003 Paris France;+33 1 48 87 46 60;shopping
+BOBBY;50;1;Used, Vintage & Consignment;4886732;234702;89 rue Réaumur 75002 Paris France;;shopping
+Les Nanas d'Paname;50;1;Pop-up Shops;488607304;23504222;38 rue Quincampoix 75004 Paris France;;shopping
+Superdry;50;1;Men's Clothing, Women's Clothing;4886152;234543;101 rue Berger La Canopée 75045 Paris France;+33 1 47 03 37 73;shopping
+Hippy Market;40;9;Used, Vintage & Consignment;4886351;234706;3 rue de Turbigo 75001 Paris France;+33 1 44 88 27 82;shopping
+Takara;50;1;Arts & Crafts, Accessories, Jewelry;4884428;229341;86 rue du Commerce 75015 Paris France;+33 1 45 32 64 52;shopping
+Auguste;40;13;Restaurants, Concept Shops;4885518;237186;10 Rue St Sabin 75011 Paris 11 France;+33 1 47 00 48 20;shopping
+Marques Avenue;40;5;Shopping Centers, Outlet Stores;4,89236E+14;2,33147E+14;9 quai Châtelier 93450 L'Île-Saint-Denis France;+33 1 42 43 70 20;shopping
+Marché de l'Opéra;50;1;Grocery, Convenience Stores;4,88698E+14;2,33085E+13;17 rue Daunou 75002 Paris France;+33 1 40 20 42 56;shopping
+Pauline Po;50;1;Fashion;488860016;23352399;6 rue Tholozé 75018 Paris France;+33 6 61 97 89 96;shopping
+Blue Lemon;50;1;Accessories;488535486;23386085;65 rue Saint-André des Arts 75006 Paris France;+33 1 46 33 17 51;shopping
+Lola Jones;50;1;Women's Clothing;4884613;229551;115 rue du Théâtre 75015 Paris France;+33 1 40 59 80 40;shopping
+Cartier;40;14;Jewelry, Leather Goods, Watches;4886811;232971;23 place Vendôme 75001 Paris France;+33 1 70 65 38 00;shopping
+Hema;40;37;Department Stores;4,88626E+14;2,34745E+14;120 rue Rambuteau 75001 Paris France;+33 1 45 08 09 27;shopping
+Sandro;39;13;Women's Clothing, Men's Clothing, Accessories;4885654;236257;26 Rue Sévigné 75004 Paris France;+33 1 42 71 91 59;shopping
+Marché d'Antony;39;9;Public Markets;48752532;2303689;5 rue Henri Lasson 92160 Antony France;+33 1 44 87 68 00;shopping
+Monoprix;39;27;Grocery;4885095;234273;24 boulevard Saint-Michel 75006 Paris France;+33 1 44 32 05 00;shopping
+Bercy Village;38;124;Shopping Centers;4,88331E+14;2,386E+14;28 rue François Truffaut 75012 Paris France;+33 825 16 60 75;shopping
+Monoprix;38;26;Department Stores;4886661;233381;23 avenue de l'Opéra 75001 Paris France;+33 1 42 61 78 08;shopping
+Rosny 2;38;24;Shopping Centers;4888469;2477601;Avenue du Général de Gaulle 93110 Rosny-sous-Bois France;+33 1 48 54 63 19;shopping
+Les Parisettes;43;3;Gift Shops;48846971;2289269;10 rue Gramme 75015 Paris France;+33 1 75 43 23 65;shopping
+Belle de jour;43;3;Antiques;4888406;23418199;7 rue Tardieu 75018 Paris France;+33 1 46 06 15 28;shopping
+La Fabrique de Gepetto;43;3;Toy Stores, Gift Shops;488401875;23499926;50 rue Daubenton 75005 Paris France;+33 1 45 35 18 57;shopping
+Chez Paulette;43;3;Women's Clothing, Used, Vintage & Consignment, Accessories;488712387;236833;32 rue Bichat 75010 Paris France;+33 1 42 08 92 76;shopping
+Shindo;43;3;Accessories;4886593;234187;2 rue d'Aboukir 75002 Paris France;+33 1 44 88 27 56;shopping
+Marché Dauphine;38;80;Flea Markets;48902333;2341987;138/140 rue des Rosiers 93400 Saint-Ouen France;+33 6 09 48 84 53;shopping
+Les 4 Temps;38;99;Shopping Centers;48890703;2235639;15 parvis de la Défense 92800 Puteaux France;+33 1 47 73 17 33;shopping
+Free'P'Star;38;32;Thrift Stores;4885803;235268;61 rue de la Verrerie 75004 Paris France;+33 1 42 78 00 76;shopping
+Paperdolls;45;2;Women's Clothing, Accessories, Shoe Stores;4888268;233811;5 rue Houdon 75018 Paris France;+33 1 42 51 29 87;shopping
+Franprix;40;4;Grocery;4886352;233466;165 rue Saint-Honoré 75001 Paris France;+33 1 40 20 11 06;shopping
+Antoine et Lili;40;4;Women's Clothing;4885889;235832;51 rue des Francs Bourgeois 75004 Paris France;+33 1 42 72 26 60;shopping
+Kitsuné;45;2;Coffee & Tea, Fashion;4,88804E+14;2,34132E+14;68 rue Condorcet 75009 Paris France;+33 1 45 26 11 64;shopping
+Monoprix;37;30;Grocery;48848863;2297468;24 rue du Commerce 75015 Paris France;+33 1 45 79 94 86;shopping
+Le 29;48;5;Bookstores, Art Galleries, Photography Stores & Services;4887503;235989;29 Rue Récollets 75010 Paris France;+33 1 40 36 78 96;arts
+Grim'Art;48;8;Cards & Stationery, Leather Goods;48853468;2,33896E+14;59/61 rue Saint-André des Arts 75006 Paris France;+33 1 46 33 19 88;arts
+Musée d’Orsay;46;985;Museums;4,88604E+14;2,32502E+14;1 rue de la Légion d'Honneur 75007 Paris France;+33 1 40 49 48 14;arts
+Aux Arts Etc...;46;62;Cafes, Art Galleries;4,88519E+14;2,349E+14;15 quai de Montebello 75005 Paris France;+33 1 56 81 68 77;arts
+Graphigro - Rougier & Plé;46;10;Framing, Cards & Stationery, Art Supplies;4,88526E+14;2,38967E+14;207 boulevard Voltaire Impasse Cité Voltaire 75011 Paris France;+33 1 43 48 23 57;arts
+Ateliers d'Arts Rrose Sélavy;46;5;Art Classes, Venues & Event Spaces;4888232;233443;5 rue Fromentin 75009 Paris France;+33 1 40 23 05 95;arts
+Opéra National de Paris - Palais Garnier;46;276;Landmarks & Historical Buildings, Opera & Ballet;488719444;23316667;8 rue Scribe 75009 Paris France;+33 1 71 25 24 23;arts
+Musée des Arts Forains - Les Pavillons de Bercy;46;43;Museums;4883243508;23890405;53 avenue des Terroirs de France 75012 Paris France;+33 1 43 40 16 22;arts
+Le Musée de Montmartre;45;28;Museums;4888771;234058;12 rue Cortot 75018 Paris France;+33 1 49 25 89 39;arts
+Musée du Louvre;45;2264;Museums;4886206;2334521;Place du Carrousel 75001 Paris France;+33 1 40 20 50 50;arts
+Artclub;50;3;Art Galleries;4886272;233525;172 Rue Rivoli 75001 Paris France;+33 1 47 03 42 20;arts
+25-50;48;4;Wine Bars, Art Galleries;488633499;23693099;18 rue Oberkampf 75011 Paris France;+33 1 73 74 54 47;arts
+Artéfact;45;10;Art Galleries, Coffee & Tea Supplies, Delicatessen;488591399;235665;23 rue des Blancs Manteaux 75004 Paris France;;arts
+Montmartre;45;109;Local Flavor;48886198;2343089;75018 Paris France;;arts
+59 Rivoli;44;32;Art Galleries, Cultural Center;488592299;234566;59 rue de Rivoli 75001 Paris France;;arts
+Petit Palais;44;82;Museums, Landmarks & Historical Buildings;48866054;2314589;Avenue Winston Churchill 75008 Paris France;+33 1 53 43 40 00;arts
+Musée d’Art Moderne;43;61;Museums;48864557;2297832;11 avenue du Président Wilson 75116 Paris France;+33 1 53 67 40 00;arts
+Jeu de Paume;43;41;Museums;488658016;2324068;1 place de la Concorde 75008 Paris France;+33 1 40 20 00 77;arts
+Musée des Arts Décoratifs;43;75;Museums;4,88629E+12;2,3344E+13;107 rue de Rivoli 75001 Paris France;+33 1 44 55 57 50;arts
+Le Pont des Arts;43;141;Landmarks & Historical Buildings;4885886;233781;Pont des Arts 75001 Paris France;;arts
+Centre Pompidou;43;322;Museums;4,88608E+14;2,35263E+14;Place Georges Pompidou 75004 Paris France;+33 1 44 78 12 33;arts
+Grand Palais;43;99;Cultural Center, Venues & Event Spaces, Landmarks & Historical Buildings;48866109;2312454;3 avenue du Général Eisenhower 75008 Paris France;+33 1 44 13 17 17;arts
+Art Gallery Carré d'artistes Paris 18 Montmartre;50;2;Art Galleries;4,88843E+14;2,34025E+14;14-16 Rue Yvonne Le Tac 75018 Paris France;+33 1 42 54 97 84;arts
+Galerie Art 25;50;2;Art Galleries;4,88575E+14;2,35869E+14;25 rue des Rosiers 75004 Paris France;+33 1 42 72 43 30;arts
+Openspace;50;2;Art Galleries;4,88646E+14;2,37102E+14;116 bd Richard Lenoir 75011 Paris France;+33 9 80 66 63 94;arts
+Lab 14;50;2;Art Galleries;4,88405E+14;2,33232E+14;140 boulevard du Montparnasse 75014 Paris France;+33 6 10 02 33 08;arts
+Manekineko de Montmartre;45;4;Cooking Schools, Language Schools, Art Classes;488846346;23462626;7 rue Pierre Picard 75018 Paris France;+33 6 67 74 56 96;arts
+Musée Jacquemart-André;42;87;Museums;4887526;231077;158 boulevard Haussmann 75008 Paris France;+33 1 45 62 11 59;arts
+American Body Art;42;21;Tattoo, Piercing;48860386;2347844;7 rue des Innocents 75001 Paris France;+33 1 40 26 51 94;arts
+Les Catacombes de Paris;42;473;Local Flavor, Museums, Landmarks & Historical Buildings;48833838;2332422;1 avenue du Colonel Henri Rol-Tanguy 75014 Paris France;+33 1 43 22 47 63;arts
+Le Lavo//matik arts urbains;47;3;Bookstores, Art Galleries;488265114;238358;20 Bd du Général Jean Simon 75013 Paris France;+33 1 45 83 69 92;arts
+Image In Air;41;7;Framing;488606399;235106;119 rue Saint Martin 75004 Paris France;+33 1 44 59 35 25;arts
+Musée des Arts et Métiers;41;56;Museums;48866646;2355438;60 rue Réaumur 75003 Paris France;+33 1 53 01 82 00;arts
+Art Corpus;41;28;Tattoo, Piercing;4886537;234856;49 Rue Greneta 75002 Paris France;+33 1 40 13 07 34;arts
+La Halle Saint-Pierre;41;24;Art Galleries, Museums, Bookstores;4888483;23443;2 rue Ronsard 75018 Paris France;+33 1 42 58 72 89;arts
+Fondation Cartier pour l'Art Contemporain;41;53;Museums;4883742;233128;261 bd Raspail 75014 Paris France;+33 1 42 18 56 50;arts
+Ecole Nationale Supérieure des Beaux-Arts;50;1;Art Schools;4885642;233445;14 rue Bonaparte 75006 Paris France;+33 1 47 03 50 00;arts
+Le Cabinet des Curieux;50;1;Antiques, Art Galleries;488733004;234235;12 Passage Verdeau 75009 Paris France;+33 1 44 83 09 57;arts
+Mon Beau Paris;50;1;Historical Tours, Art Tours;48867981;23464;34 rue de Cléry 75005 Paris France;+33 6 50 69 66 91;arts
+Centre de danse Elephant Paname;40;6;Dance Studios, Cultural Center;48869368;232999;10 rue Volney 75002 Paris France;+33 1 49 27 83 33;arts
+American Body Art;50;1;Tattoo, Piercing;48860655;23497;24 boulevard de Sébastopol 75004 Paris France;+33 1 40 29 15 80;arts
+Rock Art Paris;50;1;Art Galleries;488857613;234566;17 bis rue André del Sarte 75018 Paris France;+33 1 42 23 90 25;arts
+Art Gallery Carré d'artistes Paris 4 Saint Louis en L'île;50;1;Art Galleries;4,88524E+14;2,35513E+14;70 Rue Saint Louis En L'Île 75004 Paris France;+33 1 46 34 61 60;arts
+Galerie des Impressionnistes;50;1;Art Galleries;4,88538E+13;2,36055E+13;14 B rue des Jardins Saint-Paul 75004 Paris France;+33 1 73 74 11 93;arts
+Magdalenart;50;1;Art Classes;488562046;23858897;53 rue Leon Frot 75011 Paris France;+33 6 37 23 02 12;arts
+Frou-Frou Marché Saint-Pierre;50;1;Fabric Stores, Knitting Supplies;4888434;234557;6 Rue Livingstone 75018 Paris France;+33 9 64 18 15 84;arts
+Le Grand Rex;39;111;Cinema, Performing Arts, Music Venues;4,88705E+13;2,34762E+14;1 boulevard Poissonière 75002 Paris France;+33 1 45 08 93 89;arts
+Le Lucernaire;39;50;Cinema, Performing Arts, Art Galleries;488441257;23304376;53 rue Notre Dame des Champs 75006 Paris France;+33 1 42 22 66 87;arts
+Fondation Louis Vuitton;39;104;Art Galleries;4,88764E+14;2,26346E+14;8 avenue du Mahatma Gandhi 75116 Paris France;+33 1 40 69 96 00;arts
+Adam Montparnasse;38;5;Hobby Shops, Art Supplies;4884095;232525;11 bd Edgar Quinet 75014 Paris France;+33 1 43 20 68 53;arts
+Sennelier;47;18;Art Supplies;4885832;233265;3 Quai Voltaire 75007 Paris France;+33 1 42 60 72 15;arts
+Musée de l’Orangerie;46;250;Museums;48863791;2322667;Place de la Concorde Jardin des Tuileries 75001 Paris France;+33 1 44 77 80 07;arts
+L'Ecritoire;45;13;Cards & Stationery;4885915;235027;61 rue Saint-Martin 75004 Paris France;+33 1 42 78 01 18;arts
+Atelier des Lumières;45;43;Museums;48861663;2380766;38 rue Saint-Maur 75011 Paris France;+33 1 80 98 46 00;arts
+Musée Rodin;45;283;Museums;48855308;2315834;77 rue de Varenne 75007 Paris France;+33 1 44 18 61 10;arts
+Hôtel des Invalides;44;85;Landmarks & Historical Buildings, Museums;4,8855E+14;2,31247E+14;Esplanade des Invalides 75007 Paris France;+33 810 11 33 99;arts
+Musée Nissim de Camondo;44;21;Museums;4887885;231286;63 rue de Monceau 75008 Paris France;;arts
+Gaîté Lyrique;44;41;Music Venues, Art Galleries;4,88666E+14;2,35343E+14;3 bis rue Papin 75003 Paris France;+33 1 53 01 52 00;arts
+Théâtre le Ranelagh;44;21;Performing Arts;4885457;227774;5 rue des Vignes 75016 Paris France;+33 1 42 88 64 44;arts
+Théâtre du Châtelet ;43;37;Performing Arts;48857725;2346312;2 rue Edouard Colonne 75001 Paris France;+33 1 40 28 28 40;arts
+Maison Européenne De La Photographie;43;48;Museums;488549;235912;5/7 rue de Fourcy 75004 Paris France;+33 1 44 78 75 00;arts
+L'Imagerie;50;2;Photographers, Art Galleries, Graphic Design;4894064;224776;10 rue du 8 Mai 1945 95100 Argenteuil France;+33 1 75 40 39 12;arts
+Maison Fabre;50;2;Arts & Crafts, Accessories;4886484;233845;128 Galerie de Valois 75001 Paris France;+33 1 42 60 75 88;arts
+Castiglione;50;1;Jewelry;4886237;233732;2 place Palais Royal Le Louvre des Antiquaires 75001 Paris France;+33 1 42 60 18 41;arts
+L'Art et Les Hommes Galerie Bassali;50;1;Antiques;4886166;234027;6 Rue Oratoire 75001 Paris France;+33 1 42 60 21 25;arts
+Adam Montmartre;43;4;Art Supplies;48893029;2336255;96 rue Damrémont 75018 Paris France;+33 1 46 06 60 38;arts
+Sparts Gallery;50;1;Art Galleries;48855532;23369044;41 rue de Seine 75006 Paris France;+33 1 43 26 05 44;arts
+Sacrés Coupons;50;1;Fabric Stores;4888385;234473;10 rue Seveste 75018 Paris France;+33 9 84 35 54 00;arts
+Musée de la Chasse et de la Nature;40;32;Museums;48861424;2358721;62 rue des Archives 75003 Paris France;+33 1 53 01 92 40;arts
+Dubois;50;1;Art Supplies;4884709;234195;20 Rue Soufflot 75005 Paris France;+33 1 43 54 43 60;arts
+Galerie Daniel Maghen;50;1;Art Galleries;488549881;23417599;47 Quai des Grands Augustins 75006 Paris France;+33 1 42 84 37 39;arts
+Dank;50;1;Art Galleries;488806299;234286;8 rue Bochart de Saron 75009 Paris France;+33 6 74 58 11 91;arts
+Rideaux Couture;50;1;Fabric Stores;4889822;21469299;42 rue des Cormiers 78400 Chatou France;+33 6 11 52 38 27;arts
+La Ressourcerie;50;1;Used, Vintage & Consignment;48866414;23457808;13 rue Léopold Bellan 75002 Paris France;;arts
+Espace Dali;40;69;Museums;488865;23398;11 rue Poulbot 75018 Paris France;+33 1 42 64 40 10;arts
+Abraxas;39;84;Tattoo, Jewelry, Piercing;488593;235308;9 rue Saint Merri 75004 Paris France;+33 1 48 04 33 55;arts
+Intemporel;39;7;Art Galleries;4885862;235006;22 rue Saint Martin 75004 Paris France;+33 1 42 72 55 41;arts
+Atelier 7;45;2;Art Galleries;4883845;233063;242 boulevard Raspail 75014 Paris France;+33 6 14 21 48 12;arts
+Breheret;45;2;Art Galleries;488578;233529;9 Quai Malaquais 75006 Paris France;+33 1 42 60 74 74;arts
+Galerie D D G;45;2;Art Galleries;488520757;23560239;56 Rue St Louis en l'Ile 75004 Paris France;+33 9 67 35 76 49;arts
+Jaja et Ponpon;45;2;Arts & Crafts, Gift Shops;4,88837E+14;2,34291E+14;44 rue d'Orsel 75018 Paris France;;arts
+La Réserve;45;2;Art Galleries;4881874;229732;7 rue Paul Bert 92240 Malakoff France;+33 6 30 79 79 09;arts
+Greenwood Gallery;45;2;Art Galleries;488675613;23557899;68 rue du Vertbois 75003 Paris France;+33 6 99 75 56 71;arts
+La Maison du Pastel;45;2;Art Supplies;48861031;2354803;20 rue Rambuteau 75003 Paris France;+33 1 40 29 00 67;arts
+Art Gallery Carré d'artistes Paris 6  Saint Germain;37;7;Art Galleries;48853623;2,33908E+14;66 Rue Saint André Des Arts 75006 Paris France;+33 1 43 25 61 72;arts
+Opéra National de Paris - Bastille;37;72;Performing Arts, Opera & Ballet;48852439;2370202;Place de la Bastille 75012 Paris France;+33 892 89 90 90;arts
+La Recyclerie;36;106;Cultural Center, Cafes, Breakfast & Brunch;48897623;2344037;83 boulevard Ornano 75018 Paris France;+33 1 42 57 58 49;arts
+Palais de Tokyo;36;98;Museums, Art Galleries;4886421;2296468;13 avenue du Président Wilson 75016 Paris France;+33 1 81 97 35 88;arts
+Moulin Rouge;35;487;Cabaret;48884317;2332252;82 boulevard de Clichy 75018 Paris France;+33 1 53 09 82 82;arts
+Art Gallery Carré d'artistes Paris 4 Le Marais;40;3;Art Galleries;48857396;2,35734E+14;29 Rue Vieille Du Temple 75004 Paris France;+33 1 44 61 73 23;arts
+Art Symbol;38;4;Art Galleries;4885609;236667;24 place des Vosges 75003 Paris France;+33 1 40 27 05 75;arts
+Galeries Vivienne;40;3;Local Flavor, Art Galleries;48867051;2339064;6 Rue vivienne 75002 Paris France;;arts
+Galerie Lumas;34;5;Art Galleries;4885508;233674;40 rue de Seine 75006 Paris France;+33 1 43 29 10 29;arts
+Le Mouffetard;33;9;Performing Arts;4884221;234983;73 rue Mouffetard 75005 Paris France;+33 1 84 79 44 44;arts
+Galerie Claudine Legrand;40;2;Art Galleries;4885504;233681;49 Rue Seine 75006 Paris France;+33 1 43 25 96 60;arts
+Galerie du Scorpion;40;2;Antiques, Art Galleries;4885173;234694;46 rue Galande 75005 Paris France;+33 1 43 26 06 16;arts
+Galerie Baudoin Lebon;40;2;Art Galleries;488586699;235489;38 rue Ste Croix la Bretonnerie 75004 Paris France;+33 1 42 72 09 10;arts
+Galerie Marion Meyer;40;2;Art Galleries;488509699;234872;3 rue des Trois Portes 75005 Paris France;+33 1 46 33 04 38;arts
+Arludik;37;3;Art Galleries;4885111;235871;12-14 rue Saint Louis en l'Ile 75004 Paris France;+33 1 43 26 19 22;arts
+L'Ecole Van Cleef & Arpels;37;3;Specialty Schools;488676796;23305299;22 place Vendôme 75001 Paris France;+33 1 70 70 36 00;arts
+Parc de la Planchette;48;6;Parks;48893217;2287864;92300 Levallois Perret France;+33 1 47 48 19 77;parks
+Les Jardins du Palais Royal;47;46;Parks, Landmarks & Historical Buildings;48864147;2336372;6 rue de Montpensier 75001 Paris France;+33 1 42 96 13 32;parks
+Louvre Pyramid;46;200;Landmarks & Historical Buildings;4886102;2335858;Cour Napoléon 75001 Paris France;+33 1 40 20 53 17;parks
+Opéra National de Paris - Palais Garnier;46;276;Landmarks & Historical Buildings, Opera & Ballet;488719444;23316667;8 rue Scribe 75009 Paris France;+33 1 71 25 24 23;parks
+Jardin du Luxembourg;46;425;Parks;4,88468E+14;2,33755E+14;Rue de Médicis 75006 Paris France;+33 1 40 71 75 60;parks
+Square Boucicaut;46;7;Parks;488514;23259;1 rue de Babylone 75007 Paris France;;parks
+Parc de Sceaux;46;46;Parks;487769;230368;8 avenue Claude Perrault Domaine Départemental de Sceaux 92330 Sceaux France;+33 1 41 87 28 00;parks
+La Tour Eiffel;46;2156;Landmarks & Historical Buildings;48858368;2,29448E+14;5 avenue Anatole France Champ de Mars 75007 Paris France;+33 892 70 12 39;parks
+Square du Vert - Galant;45;15;Parks;4,88573E+14;2,3405E+14;Place du Pont-Neuf 75001 Paris France;+33 1 46 33 98 38;parks
+Place des Vosges;45;105;Parks;48855605;2365521;Place des Vosges 75003 Paris France;;parks
+Le Mur des je t'Aime;45;37;Parks, Local Flavor;48884661;2338481;Square Jehan Rictus Place des Abbesses 75018 Paris France;+33 6 62 42 31 07;parks
+L'Arc de Triomphe;45;708;Landmarks & Historical Buildings;4,88738E+14;2,29502E+14;Place de l'Étoile 75008 Paris France;+33 1 55 37 73 77;parks
+Palais du Luxembourg;44;89;Landmarks & Historical Buildings;4,88482E+14;2,33731E+14;15 rue de Vaugirard 75006 Paris France;+33 1 44 54 19 30;parks
+Square Georges Cain;44;5;Landmarks & Historical Buildings;48861489;2362513;75003 Paris France;;parks
+Promenade de l'Avenue de Breteuil;44;5;Parks;488485264;23112758;Avenue de Breteuil 75007 Paris France;;parks
+Le Parc des Buttes Chaumont;44;191;Parks;488769112;23810999;1 rue Botzaris 75019 Paris France;;parks
+Bois de Vincennes;43;58;Parks;48828281;2433099;Route de la Pyramide 75012 Paris France;;parks
+Parc Floral de Paris;43;44;Parks;4,88383E+14;2,44255E+13;Route du Champs de Manoeuvre 75012 Paris France;+33 1 49 54 24 84;parks
+Parc de Bagatelle;43;16;Parks;48869131;224803;Route de Sèvres 75016 Neuilly France;+33 1 45 01 20 10;parks
+Parc Montsouris;43;77;Parks;48822216;2338178;2 rue Gazan 75014 Paris France;;parks
+La Fontaine Médicis;45;4;Parks;4884807;2338969;Jardin du Luxembourg Paris France;;parks
+Jardins de l'archipel des Berges de Seine;50;2;Botanical Gardens;4,8863E+14;2,30474E+14;Port du Gros Cailloux 75007 Paris France;;parks
+Square Saint-Gilles Grand Veneur;50;2;Parks;488590202;236602;9 rue du Grand Veneur 75003 Paris France;;parks
+Jardin des Tuileries;42;245;Parks;48863396;2327307;113 rue de Rivoli 75001 Paris France;+33 1 40 20 90 43;parks
+Promenade Plantée;42;55;Landmarks & Historical Buildings, Parks;4,88411E+13;2,39658E+14;Avenue Daumesnil/Porte de Saint Mandé/Bois de Vincennes 75012 Paris France;;parks
+Jardin des Plantes;42;84;Botanical Gardens, Parks;4,88453E+14;2,36102E+13;57 rue Cuvier 75005 Paris France;+33 1 40 79 56 01;parks
+La Terrasse des Galeries Lafayette;42;5;Parks;4887301;233269;40 bd Haussmann 7ème étage 75009 Paris France;+33 1 42 85 12 00;parks
+Esplanade des Invalides;42;27;Parks;48862418;2311655;129 rue de Grenelle 75007 Paris France;;parks
+Parc Monceau;42;93;Parks;4,88795E+14;2,30921E+14;35 boulevard Courcelles 75008 Paris France;+33 1 42 27 08 64;parks
+jardins luxembourg;47;3;Parks;488986397;23188901;la place des jardins qq copains c mieux Paris France;;parks
+Square Louvois;42;6;Parks;48868245;2337164;1 rue Louvois 75002 Paris France;;parks
+Parc de Bercy;42;43;Parks;4883712;2380555;128 quai de Bercy 75012 Paris France;;parks
+Champ de Mars;42;90;Parks;48855861;229867;2 allée Adrienne Lecouvreur 75007 Paris France;;parks
+Le Jardin du Ranelagh;41;7;Kids Activities, Bookstores, Parks;488567;226494;Avenue du Ranelagh Avenue Ingres 75016 Paris France;+33 1 45 27 82 16;parks
+Jardin Tino-Rossi;41;7;Parks;4884586;23624299;2 quai Saint-Bernard 75005 Paris France;+33 1 45 08 55 25;parks
+Parc de Belleville;41;40;Parks;4,88715E+14;2,38547E+14;47 rue des Couronnes 75020 Paris France;;parks
+Coulée Verte René-Dumont;41;10;Parks;4,88464E+13;2,37771E+13;Place de la Bastille 75012 Paris France;;parks
+Jardin des Rosiers - Joseph Migneret;41;11;Parks;4885779;236038;35-37 rue des Francs-Bourgeois 75004 Paris France;;parks
+Square du Temple;40;14;Parks;4,88646E+14;2,36077E+14;64 rue de Bretagne 75003 Paris France;;parks
+Jardin Nelson-Mandela ex-des Halles;40;6;Parks;48862837;2343935;1 rue Pierre-Lescot 75001 Paris France;;parks
+Parcours Sportif;50;1;Parks;4887835;236584;159 quai de Valmy Square Eugene Varlin 75010 Paris France;;parks
+Le Bois de Boulogne;40;18;Parks;48862438;2249173;75016 Paris France;+33 1 42 88 04 69;parks
+Square Jean XXIII;40;6;Parks;48852386;235089;4 place du Parvis Notre-Dame 75004 Paris France;;parks
+Jardin partagé des Deux-Nèthes;50;1;Parks;488852199;232681;22 avenue de Clichy 75018 Paris France;;parks
+Parc des Sports;50;1;Parks;4875156;231717;12 Avenue Parc des Sports 94260 Fresnes France;;parks
+Square des Batignolles;39;23;Parks, Playgrounds;488876;231736;Place Charles Fillion 75017 Paris France;+33 1 40 71 74 00;parks
+Parc de la Villette;39;36;Parks;48891757;2391928;211 avenue Jean Jaurès 75019 Paris France;;parks
+Parc Sainte-Périne;39;7;Parks;4884586;226901;39 rue Mirabeau 75016 Paris France;;parks
+Square Gabriel Pierné;43;3;Parks;4885702;233654;Sq Gabriel Pierné 75006 Paris France;;parks
+Les Vignes de Montmartre;43;3;Parks;4888811;233981;14-18 rue des Saules 75018 Paris France;;parks
+Musée Albert Kahn;46;53;Botanical Gardens, Museums, Parks;4884136;222748;14 rue du Port 92100 Boulogne-billancourt France;+33 1 55 19 28 00;parks
+Arc de Triomphe du Carrousel;46;43;Landmarks & Historical Buildings;4,88617E+14;2,33291E+14;Place du Carrousel 75001 Paris France;;parks
+Le Pont Neuf;45;78;Landmarks & Historical Buildings;4,88571E+14;2,34135E+14;75001 Paris France;;parks
+La Seine - Paris;45;51;Landmarks & Historical Buildings;4,88634E+14;2,33371E+14;75001 Paris France;;parks
+Basilique du Sacré-Cœur de Montmartre;45;629;Churches, Landmarks & Historical Buildings;4888709;234343;35 rue du Chevalier de la Barre 75018 Paris France;+33 1 53 41 89 00;parks
+Basilique Sainte Clotilde;44;5;Churches, Landmarks & Historical Buildings;488585281;23199401;23bis rue Las Cases 75007 Paris France;+33 1 44 18 62 60;parks
+L'île aux Cygnes;43;6;Parks, Local Flavor;4,88531E+14;2,28399E+14;Île aux Cygnes 75016 Paris France;;parks
+Pelouse de Reuilly;45;4;Parks;4883016;2406523;Bois de Vincennes 75012 Paris France;;parks
+La Cité des Fleurs;42;5;Parks, Landmarks & Historical Buildings;4889137;231917;154 ave de Clichy 75017 Paris France;;parks
+Parc de Bois-Préau;47;3;Parks;4,88728E+14;2,17146E+14;1 avenue de l'Impératrice-Joséphine 92500 Rueil-Malmaison France;+33 1 47 10 08 20;parks
+Parc Edmond de Rothschild;42;6;Parks;4885048;2230287;3 rue des Victoires 92100 Boulogne-Billancourt France;+33 1 55 18 66 80;parks
+Square Roger Stéphane;47;3;Parks;488525;23279899;Square Récamier 75007 Paris France;;parks
+Les Jardins du Ruisseau;42;6;Parks;48897445;23426454;110bis rue du Ruisseau 75018 Paris France;+33 6 51 25 16 23;parks
+Domaine National de Saint-Cloud;40;28;Parks;4,88333E+14;2,21201E+14;Avenue de la Grille d'Honneur 92210 Saint-Cloud France;+33 1 41 12 02 90;parks
+Square Saint-Lambert;40;6;Parks;48841602;2297387;2 rue Jean-Formigé 75015 Paris France;;parks
+Jardin de Reuilly;40;6;Landmarks & Historical Buildings, Parks;4884246;2388792;Jardin de Reuilly Ave Daumesnil 75012 Paris France;+33 1 43 43 78 51;parks
+Parc des bruyeres;50;1;Parks;48907616;2261322;Place de la renaissance 92270 Bois-Colombes France;;parks
+Doggies et compagnie;50;1;Dog Parks, Pet Sitting;4891186;22636;6 Square Cote Saint Thibault 92270 Bois Colombes France;+33 1 43 34 50 80;parks
+Parc André-Citroen;39;60;Parks;4884329;227501;2 rue Cauchy 75015 Paris France;;parks
+Palais-Royal;38;44;Landmarks & Historical Buildings;4886251;2337334;2 Place Palais Royal 75001 Paris France;+33 9 64 16 23 64;parks
+Square Léon Serpollet;38;6;Parks, Playgrounds, Stadiums & Arenas;488929;233888;Rue des Cloÿs 75018 Paris France;;parks
+Square Léon Blum;43;3;Parks;4883951;223588;52 rue de Billancourt 92100 Boulogne-Billancourt France;;parks
+Jardin de la Vache Noire;38;12;Parks;4,88723E+14;2,32212E+14;6 avenue du Président Salvador Allende 94110 Arcueil France;+33 821 08 20 82;parks
+Square de la Roquette;38;6;Parks;4,88597E+14;2,38487E+14;143 rue de la Roquette 75011 Paris France;;parks
+Jardin nomade;43;3;Parks;488525;237922;48 rue Trousseau 75011 Paris France;;parks
+Jardin Villemin;38;11;Parks;4887463;236135;14 rue des Récollets 75010 Paris France;;parks
+Square Maurice Gardette;38;9;Parks;4,88617E+14;2,37911E+14;2 rue du Général-Blaise 75011 Paris France;;parks
+Jardin de l'Arsenal;40;4;Parks;4884951711;236831546;53 bd de la Bastille 75012 Paris France;;parks
+Square du Chanoine Viollet;45;2;Parks;48829499;2317707;Rue Didot 75014 Paris France;;parks
+Jardin Frédéric-Dard;45;2;Parks;4,88874E+14;2,33824E+14;Rue Norvins 75018 Paris France;;parks
+Martin Luther King;37;9;Parks;48890752;2315236;Rue Cardinet 75017 Paris France;;parks
+Parc Georges-Brassens;37;18;Parks;4,88316E+14;2,30023E+14;2 place Jacques Marette 75015 Paris France;+33 1 56 08 33 88;parks
+Le Grand Colbert;36;291;French, Landmarks & Historical Buildings;4886707;233907;2 rue Vivienne 75002 Paris France;+33 1 42 86 87 88;parks
+Jardin du Sacré-Coeur;36;10;Botanical Gardens, Landmarks & Historical Buildings;4,88874E+14;2,34229E+14;Sacré coeur 75018 Paris France;;parks
+Square Armand Trousseau;35;25;Playgrounds, Parks;4,88504E+14;2,37712E+14;1 rue Antoine Vollon 75012 Paris France;;parks
+Square d'Anvers;38;4;Playgrounds, Parks;4888186;234535;10 bis ave Trudaine 75009 Paris France;;parks
+Parc de la Turlure;38;4;Parks, Playgrounds;4888749;234436;Rue du Chevalier de la Barre 75018 Paris France;;parks
+Petite Ceinture du 15ème;33;6;Parks;48831861;2292783;99 rue Olivier de Serres 75015 Paris France;;parks
+Square Émile Chautemps;40;2;Parks, Playgrounds;488625603;235865;Square Emile Chautemps 75003 Paris France;;parks
+Le Square Thomas Jefferson;40;2;Parks;4886751;229479;1 place des Etats-Unis 75116 Paris France;;parks
+Square Santiago du Chili;40;2;Parks;488564;2308615;1 avenue de la Motte Picquet 75007 Paris France;+33 1 47 53 09 68;parks
+Jardin Catherine-Labouré;35;4;Parks;488516199;23205;29 rue de Babylone 75007 Paris France;;parks
+Square de Montholon;35;4;Parks;488772;234567;2 rue Mayran 75009 Paris France;;parks
+Square Violet;40;2;Parks;48843837;228977;4 place Violet 75015 Paris France;;parks
+Ferme enfantine du Parc des Gondoles;40;2;Parks;48762479;2425477;Parc des Gondoles 94600 Choisy-Le-Roi France;+33 1 48 90 77 11;parks
+Bois de Boulogne;32;19;Landmarks & Historical Buildings;48864538;2255309;Route de la Reine Marguerite 75016 Paris France;;parks
+Théâtre de Guignol au parc Floral;37;3;Parks, Playgrounds;4884462;24384;Parc floral de Paris 75012 Paris France;+33 1 49 23 94 37;parks
+Square Berlioz;37;3;Landmarks & Historical Buildings, Parks;488825;23308399;Rue de Calais 75009 Paris France;;parks
+Jardin Anne Frank;40;1;Parks;48861604;2355015;14 impasse Berthaud 75003 Paris France;;parks
+Jardin de l'Hospice Debrousse;40;1;Parks;4,88623E+14;2,40643E+14;148 rue de Bagnolet 75020 Paris France;;parks
